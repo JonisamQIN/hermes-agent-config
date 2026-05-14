@@ -1,0 +1,12 @@
+# 启用的 MCP 服务器配置
+time:
+  command: "npx"
+  args: ["-y", "@modelcontextprotocol/server-time"]
+  timeout: 30
+  connect_timeout: 15
+
+filesystem:
+  command: "npx"
+  args: ["-y", "@modelcontextprotocol/server-filesystem", "/root"]
+  timeout: 60
+  connect_timeout: 20

@@ -1,0 +1,44 @@
+# Secrets
+.env
+.env.backup
+auth.json
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
+kanban.db
+
+# caches
+cache/
+image_cache/
+audio_cache/
+logs/
+checkpoints/
+train_cache/
+memories/
+state-snapshots/
+
+# Session history
+sessions/
+*.json.lock
+
+# Credentials
+.hermes_history
+pairing/
+
+# Virtual environments
+mcp-venv/
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model caches
+models_dev_cache.json

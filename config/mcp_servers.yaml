@@ -1,0 +1,89 @@
+# MCP Servers Configuration for Hermes Agent
+# These servers will be automatically connected on startup
+
+# 1. Time Server - Simple server for testing
+time:
+  command: "npx"
+  args: ["-y", "@modelcontextprotocol/server-time"]
+  timeout: 30
+  connect_timeout: 15
+
+# 2. Filesystem Server - Access local filesystem
+filesystem:
+  command: "npx"
+  args: ["-y", "@modelcontextprotocol/server-filesystem", "/root"]
+  timeout: 60
+  connect_timeout: 20
+
+# 3. SQLite Server - Database access (optional)
+# sqlite:
+#   command: "npx"
+#   args: ["-y", "@modelcontextprotocol/server-sqlite"]
+#   env:
+#     SQLITE_DB_PATH: "/path/to/your/database.db"
+#   timeout: 120
+#   connect_timeout: 30
+
+# 4. Postgres Server - PostgreSQL database (optional)
+# postgres:
+#   command: "npx"
+#   args: ["-y", "@modelcontextprotocol/server-postgres"]
+#   env:
+#     POSTGRES_CONNECTION_STRING: "postgresql://user:password@localhost:5432/dbname"
+#   timeout: 120
+#   connect_timeout: 30
+
+# 5. GitHub Server - GitHub API access (requires token)
+# github:
+#   command: "npx"
+#   args: ["-y", "@modelcontextprotocol/server-github"]
+#   env:
+#     GITHUB_PERSONAL_ACCESS_TOKEN: "your_github_token_here"
+#   timeout: 90
+#   connect_timeout: 30
+
+# 6. Brave Search Server - Web search (requires API key)
+# brave:
+#   command: "npx"
+#   args: ["-y", "@modelcontextprotocol/server-brave-search"]
+#   env:
+#     BRAVE_API_KEY: "your_brave_api_key_here"
+#   timeout: 90
+#   connect_timeout: 30
+
+# 7. Weather Server - Weather information
+# weather:
+#   command: "npx"
+#   args: ["-y", "@modelcontextprotocol/server-weather"]
+#   env:
+#     OPENWEATHER_API_KEY: "your_openweather_api_key_here"
+#   timeout: 60
+#   connect_timeout: 20
+
+# 8. Notion Server - Notion API (requires integration token)
+# notion:
+#   command: "npx"
+#   args: ["-y", "@modelcontextprotocol/server-notion"]
+#   env:
+#     NOTION_TOKEN: "your_notion_integration_token_here"
+#   timeout: 120
+#   connect_timeout: 30
+
+# 9. Slack Server - Slack integration (requires tokens)
+# slack:
+#   command: "npx"
+#   args: ["-y", "@modelcontextprotocol/server-slack"]
+#   env:
+#     SLACK_BOT_TOKEN: "xoxb-your-slack-bot-token"
+#     SLACK_APP_TOKEN: "xapp-your-slack-app-token"
+#   timeout: 120
+#   connect_timeout: 30
+
+# 10. Linear Server - Linear issue tracking (requires API key)
+# linear:
+#   command: "npx"
+#   args: ["-y", "@modelcontextprotocol/server-linear"]
+#   env:
+#     LINEAR_API_KEY: "your_linear_api_key_here"
+#   timeout: 120
+#   connect_timeout: 30

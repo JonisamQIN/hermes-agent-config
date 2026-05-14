@@ -1,0 +1,6372 @@
+{
+  "profile": {
+    "name": "用户",
+    "height_cm": 188,
+    "baseline_date": "2026-04-16",
+    "baseline_weight_kg": 83.5,
+    "baseline_bodyfat_pct": 20.7,
+    "baseline_muscle_kg": null,
+    "baseline_bmi": 24.1,
+    "sleep_baseline": {
+      "target_total_min": 420,
+      "target_deep_min": 60,
+      "target_hrv_baseline_ms": 55,
+      "target_resting_hr_bpm": 53,
+      "hrv_warning_threshold_ms": 45,
+      "notes": "睡眠是减脂/增肌第三支柱，与训练和饮食并列三大可控因素"
+    }
+  },
+  "body_measurements": [
+    {
+      "date": "2026-04-16",
+      "weight_kg": 83.5,
+      "bodyfat_pct": 20.7,
+      "bodyfat_kg": 17.3,
+      "muscle_kg": null,
+      "bmi": 24.1,
+      "body_type": "偏胖型",
+      "notes": "其实你不胖，只是比较强壮。增加一些力量和有氧的训练，会让身体更健康哦"
+    }
+  ],
+  "training_sessions": [
+    {
+      "date": "2026-04-16",
+      "day_of_week": "周四",
+      "duration_min": 64,
+      "total_weight_kg": 13337,
+      "avg_heart_rate": 97,
+      "body_parts": [
+        "胸",
+        "背",
+        "臂"
+      ],
+      "exercises": [
+        {
+          "name": "下斜悍马机推胸",
+          "sets": [
+            [
+              "30kg",
+              15
+            ],
+            [
+              "30kg",
+              15
+            ],
+            [
+              "40kg",
+              13
+            ],
+            [
+              "40kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "宽距高位下拉",
+          "sets": [
+            [
+              "65kg",
+              15
+            ],
+            [
+              "75kg",
+              15
+            ],
+            [
+              "80kg",
+              12
+            ],
+            [
+              "80kg",
+              12
+            ],
+            [
+              "80kg",
+              15
+            ]
+          ]
+        },
+        {
+          "name": "悍马机划船",
+          "sets": [
+            [
+              "60kg",
+              15
+            ],
+            [
+              "60kg",
+              15
+            ],
+            [
+              "60kg",
+              13
+            ],
+            [
+              "60kg",
+              12
+            ]
+          ]
+        },
+        {
+          "name": "哑铃过头臂屈伸",
+          "sets": [
+            [
+              "7kg",
+              10
+            ],
+            [
+              "7kg",
+              10
+            ],
+            [
+              "7kg",
+              12
+            ]
+          ]
+        },
+        {
+          "name": "上斜哑铃弯举",
+          "sets": [
+            [
+              "20kg",
+              8
+            ],
+            [
+              "20kg",
+              6
+            ],
+            [
+              "20kg",
+              10
+            ],
+            [
+              "20kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "面拉",
+          "sets": [
+            [
+              "40lbs",
+              15
+            ],
+            [
+              "45lbs",
+              12
+            ],
+            [
+              "45lbs",
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "day_of_week": "周五",
+      "duration_min": 88,
+      "calories_burned": 195,
+      "total_weight_kg": 9789,
+      "avg_heart_rate": 98,
+      "body_parts": [
+        "背",
+        "三头",
+        "股四",
+        "团课全身"
+      ],
+      "exercises": [
+        {
+          "name": "器械推胸",
+          "sets": [
+            [
+              "65lbs",
+              12
+            ],
+            [
+              "65lbs",
+              12
+            ],
+            [
+              "65lbs",
+              12
+            ]
+          ]
+        },
+        {
+          "name": "杠铃罗马尼亚硬拉",
+          "sets": [
+            [
+              "60kg",
+              10
+            ],
+            [
+              "60kg",
+              10
+            ],
+            [
+              "60kg",
+              12
+            ],
+            [
+              "60kg",
+              15
+            ]
+          ]
+        },
+        {
+          "name": "面拉",
+          "sets": [
+            [
+              "40lbs",
+              15
+            ],
+            [
+              "45lbs",
+              12
+            ],
+            [
+              "45lbs",
+              12
+            ]
+          ]
+        },
+        {
+          "name": "高位下拉/划船组合",
+          "sets": [
+            [
+              "65lbs",
+              15
+            ],
+            [
+              "65lbs",
+              15
+            ],
+            [
+              "110lbs",
+              10
+            ],
+            [
+              "110lbs",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "绳索直臂下压",
+          "sets": [
+            [
+              "35lbs",
+              15
+            ],
+            [
+              "35lbs",
+              15
+            ],
+            [
+              "40lbs",
+              12
+            ],
+            [
+              "40lbs",
+              12
+            ]
+          ]
+        },
+        {
+          "name": "坐姿腿弯举",
+          "sets": [
+            [
+              "70lbs",
+              12
+            ],
+            [
+              "85lbs",
+              13
+            ],
+            [
+              "85lbs",
+              15
+            ]
+          ]
+        }
+      ],
+      "团课": "乐刻杠铃肌肉塑造",
+      "团课时长": 45
+    },
+    {
+      "date": "2026-04-29",
+      "day_of_week": "周二",
+      "session_name": "周三 PULL",
+      "duration_min": null,
+      "total_weight_kg": 6390,
+      "calorie": 243,
+      "body_parts": [
+        "背",
+        "肩",
+        "二头",
+        "核心"
+      ],
+      "exercises": [
+        {
+          "name": "面拉",
+          "sets": [
+            [
+              "50kg",
+              8
+            ],
+            [
+              "50kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "宽距高位下拉",
+          "sets": [
+            [
+              "60kg",
+              8
+            ],
+            [
+              "60kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "悍马机划船(v1)",
+          "sets": [
+            [
+              "60kg",
+              10
+            ],
+            [
+              "70kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "分动式高位划船",
+          "sets": [
+            [
+              "25kg",
+              8
+            ],
+            [
+              "25kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "轨道划船器划船",
+          "sets": [
+            [
+              "60kg",
+              8
+            ],
+            [
+              "60kg",
+              9
+            ]
+          ]
+        },
+        {
+          "name": "拉杆坐姿划船(窄握)",
+          "sets": [
+            [
+              "60kg",
+              9
+            ],
+            [
+              "60kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "sets": [
+            [
+              "40kg",
+              8
+            ],
+            [
+              "35kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "悍马机卷腹",
+          "sets": [
+            [
+              "30kg",
+              6
+            ],
+            [
+              "25kg",
+              8
+            ]
+          ]
+        }
+      ],
+      "notes": "训记API 2026-04-29 PULL训练，calorie=243"
+    },
+    {
+      "date": "2026-05-06",
+      "day_of_week": "周二",
+      "session_name": "周一 PUSH",
+      "duration_min": null,
+      "total_weight_kg": 6078,
+      "calorie": 688,
+      "body_parts": [
+        "胸",
+        "肩",
+        "三头",
+        "核心"
+      ],
+      "exercises": [
+        {
+          "name": "面拉",
+          "sets": [
+            [
+              "45kg",
+              10
+            ],
+            [
+              "45kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "哑铃卧推",
+          "sets": [
+            [
+              "16kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "sets": [
+            [
+              "16kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "下斜悍马机推胸",
+          "sets": [
+            [
+              "60kg",
+              8
+            ],
+            [
+              "60kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "悍马机推胸",
+          "sets": [
+            [
+              "50kg",
+              10
+            ],
+            [
+              "50kg",
+              8
+            ],
+            [
+              "50kg",
+              6
+            ]
+          ]
+        },
+        {
+          "name": "器械坐姿推举",
+          "sets": [
+            [
+              "40kg",
+              5
+            ],
+            [
+              "32.5kg",
+              7
+            ],
+            [
+              "30kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "sets": [
+            [
+              "60kg",
+              8
+            ],
+            [
+              "60kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "绳索臂屈伸",
+          "sets": [
+            [
+              "30kg",
+              9
+            ],
+            [
+              "30kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "悍马机卷腹",
+          "sets": [
+            [
+              "25kg",
+              10
+            ],
+            [
+              "25kg",
+              10
+            ]
+          ]
+        }
+      ],
+      "notes": "训记API 2026-05-06 PUSH训练，calorie=688，哑铃偏轻(16kg)"
+    },
+    {
+      "date": "2026-05-07",
+      "day_of_week": "周四",
+      "session_name": "周二 LEG",
+      "duration_min": 84,
+      "total_weight_kg": 17959,
+      "calorie": 684,
+      "body_parts": [
+        "股四",
+        "腘绳",
+        "臀",
+        "小腿",
+        "核心"
+      ],
+      "exercises": [
+        {
+          "name": "罗马尼亚硬拉(哑铃)",
+          "sets": [
+            [
+              "22+22kg",
+              10
+            ],
+            [
+              "24+24kg",
+              12
+            ],
+            [
+              "28+28kg",
+              8
+            ],
+            [
+              "28+28kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "杠铃罗马尼亚硬拉",
+          "sets": [
+            [
+              "50kg",
+              15
+            ],
+            [
+              "70kg",
+              5
+            ],
+            [
+              "60kg",
+              6
+            ],
+            [
+              "60kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "坐姿腿弯举",
+          "sets": [
+            [
+              "67.5kg",
+              10
+            ],
+            [
+              "75kg",
+              8
+            ],
+            [
+              "75kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "悍马机臀冲",
+          "sets": [
+            [
+              "80kg",
+              10
+            ],
+            [
+              "80kg",
+              10
+            ],
+            [
+              "80kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "45度斜板机器单腿腿举",
+          "sets": [
+            [
+              "80kg",
+              12
+            ],
+            [
+              "80kg",
+              12
+            ],
+            [
+              "100kg",
+              10
+            ],
+            [
+              "100kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "坐姿髋外展",
+          "sets": [
+            [
+              "50kg",
+              10
+            ],
+            [
+              "55kg",
+              10
+            ],
+            [
+              "55kg",
+              8
+            ],
+            [
+              "55kg",
+              8
+            ]
+          ]
+        },
+        {
+          "name": "悍马机卷腹",
+          "sets": [
+            [
+              "25kg",
+              10
+            ],
+            [
+              "25kg",
+              10
+            ],
+            [
+              "25kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "站姿器械提踵",
+          "sets": [
+            [
+              "60kg",
+              10
+            ],
+            [
+              "90kg",
+              10
+            ],
+            [
+              "90kg",
+              10
+            ]
+          ]
+        },
+        {
+          "name": "哈克机反向深蹲",
+          "sets": [
+            [
+              "60kg",
+              10
+            ]
+          ]
+        }
+      ],
+      "notes": "训记OCR校准(2026-05-07)，RDL修正为(22-28kg)哑铃×10-12次，杠铃RDL修正50-70kg×5-15次，全天总消耗684kcal（含小腿强化）"
+    },
+    {
+      "date": "2026-02-18",
+      "training_name": "步行",
+      "id": "1771688706526",
+      "train_time": "1771373728000-1771374935000",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "00km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-18",
+      "training_name": "步行",
+      "id": "1771688706039",
+      "train_time": "1771374935000-1771376122000",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "08km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-18",
+      "training_name": "步行",
+      "id": "1771688705533",
+      "train_time": "1771376122000-1771377314000",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "88km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-18",
+      "training_name": "步行",
+      "id": "1771688705031",
+      "train_time": "1771377314000-1771379001000",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "99km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-18",
+      "training_name": "楼梯",
+      "id": "1771688704545",
+      "train_time": "1771396715802-1771396774845",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "00km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-18",
+      "training_name": "楼梯",
+      "id": "1771688704077",
+      "train_time": "1771396718936-1771396777749",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "00km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-18",
+      "training_name": "步行",
+      "id": "1771688703608",
+      "train_time": "1771403935000-1771408638000",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "32km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-18",
+      "training_name": "楼梯",
+      "id": "1771688703077",
+      "train_time": "1771410596696-1771410627379",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "00km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-19",
+      "training_name": "周四 PULL",
+      "id": "1770909469869",
+      "train_time": "0-0",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "单手扶墙拉伸",
+          "order": 25
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-19",
+      "training_name": "步行",
+      "id": "1771688702607",
+      "train_time": "1771460486000-1771462312000",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "83km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-19",
+      "training_name": "步行",
+      "id": "1771688702116",
+      "train_time": "1771463985680-1771465513442",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "14km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-19",
+      "training_name": "步行",
+      "id": "1771688701468",
+      "train_time": "1771489895419-1771495219273",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "39km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-22",
+      "training_name": "步行",
+      "id": "1771810701344",
+      "train_time": "1771742319050-1771743397216",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "11km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-23",
+      "training_name": "周一 PUSH",
+      "id": "1770908636220",
+      "train_time": "1771833137868-1771838384348",
+      "calorie": 389,
+      "exercises": [
+        {
+          "name": "肩胛骨后缩灵活性",
+          "order": 1
+        },
+        {
+          "name": "弹力带肩部热身拉伸",
+          "order": 2
+        },
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 3
+        },
+        {
+          "name": "单臂侧转",
+          "order": 4
+        },
+        {
+          "name": "斜凳胸背扩",
+          "order": 5
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 6
+        },
+        {
+          "name": "弓步拉伸",
+          "order": 7
+        },
+        {
+          "name": "壶铃杯式深蹲",
+          "order": 8
+        },
+        {
+          "name": "面拉",
+          "order": 9
+        },
+        {
+          "name": "单边悍马机推胸",
+          "order": 10
+        },
+        {
+          "name": "史密斯机卧推",
+          "order": 11
+        },
+        {
+          "name": "上斜史密斯机卧推",
+          "order": 12
+        },
+        {
+          "name": "器械推胸",
+          "order": 13
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 17
+        },
+        {
+          "name": "集中弯举",
+          "order": 20
+        },
+        {
+          "name": "站姿上举背部扭转拉伸",
+          "order": 21
+        },
+        {
+          "name": "站姿单臂胸部伸展",
+          "order": 23
+        },
+        {
+          "name": "后背正反手拉伸",
+          "order": 24
+        },
+        {
+          "name": "头顶胸部拉伸",
+          "order": 25
+        },
+        {
+          "name": "前臂拉伸",
+          "order": 26
+        },
+        {
+          "name": "过头三头拉伸",
+          "order": 27
+        },
+        {
+          "name": "单手扶墙拉伸",
+          "order": 28
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-23",
+      "training_name": "自行车",
+      "id": "1771842886777",
+      "train_time": "1771839472682-1771839971861",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "90km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-24",
+      "training_name": "自行车",
+      "id": "1771929244139",
+      "train_time": "1771927764970-1771929039057",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "60km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-24",
+      "training_name": "周四 PULL + HIIT",
+      "id": "1771929264020",
+      "train_time": "1771929592841-1771934947260",
+      "calorie": 537,
+      "exercises": [
+        {
+          "name": "绳索直臂下压",
+          "order": 1
+        },
+        {
+          "name": "跪姿弹力带划船",
+          "order": 2
+        },
+        {
+          "name": "引体向上（辅助）",
+          "order": 3
+        },
+        {
+          "name": "窄距引体向上（辅助）",
+          "order": 4
+        },
+        {
+          "name": "器械下拉（版本2）",
+          "order": 5
+        },
+        {
+          "name": "器械下拉",
+          "order": 6
+        },
+        {
+          "name": "单手下拉",
+          "order": 7
+        },
+        {
+          "name": "坐姿划船",
+          "order": 8
+        },
+        {
+          "name": "绳索直背坐姿划船",
+          "order": 9
+        },
+        {
+          "name": "动感单车-Tabata",
+          "order": 10
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "order": 11
+        },
+        {
+          "name": "器械坐姿单臂后束飞鸟",
+          "order": 12
+        },
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 13
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-24",
+      "training_name": "自行车",
+      "id": "1771939992277",
+      "train_time": "1771935515587-1771935888832",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "86km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-24",
+      "training_name": "自行车",
+      "id": "1771939991820",
+      "train_time": "1771937285954-1771938205523",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "45km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-25",
+      "training_name": "自行车",
+      "id": "1771982665312",
+      "train_time": "1771979917647-1771980138371",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "62km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-25",
+      "training_name": "自行车",
+      "id": "1772016194394",
+      "train_time": "1772014518986-1772016054949",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "93km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-25",
+      "training_name": "热身",
+      "id": "1772016194582",
+      "train_time": "1772016285497-1772016651775",
+      "calorie": 28,
+      "exercises": [
+        {
+          "name": "斜凳胸背扩",
+          "order": 4
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 6
+        },
+        {
+          "name": "壶铃杯式深蹲",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-25",
+      "training_name": "周二 LEG + LISS",
+      "id": "1772003855076",
+      "train_time": "1772016727824-1772021649432",
+      "calorie": 564,
+      "exercises": [
+        {
+          "name": "哑铃RDL超级组",
+          "order": 1
+        },
+        {
+          "name": "器械臀冲",
+          "order": 2
+        },
+        {
+          "name": "器械后蹬",
+          "order": 3
+        },
+        {
+          "name": "山羊挺身",
+          "order": 4
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 5
+        },
+        {
+          "name": "坐姿髋内收",
+          "order": 6
+        },
+        {
+          "name": "坐姿腿屈伸",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-25",
+      "training_name": "臀腿松解",
+      "id": "1772021655533",
+      "train_time": "1772021676407-1772022271338",
+      "calorie": 11,
+      "exercises": [
+        {
+          "name": "单手扶墙腿拉伸",
+          "order": 2
+        },
+        {
+          "name": "滚轮腿交叉",
+          "order": 3
+        },
+        {
+          "name": "仰卧髋外旋肌与髋伸肌泡沫轴放松",
+          "order": 4
+        },
+        {
+          "name": "坐姿腘绳肌与臀部泡沫轴放松",
+          "order": 5
+        },
+        {
+          "name": "泡沫轴腘绳肌松解",
+          "order": 6
+        },
+        {
+          "name": "大腿外侧强化松解",
+          "order": 7
+        },
+        {
+          "name": "泡沫轴腓肠肌松解",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-25",
+      "training_name": "自行车",
+      "id": "1772024027766",
+      "train_time": "1772022998691-1772023414574",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "16km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-25",
+      "training_name": "其他",
+      "id": "1772077422578",
+      "train_time": "1772031474621-1772031489057",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "00km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-26",
+      "training_name": "周四 PULL",
+      "id": "1770909470753",
+      "train_time": "0-0",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "单手扶墙拉伸",
+          "order": 25
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-26",
+      "training_name": "自行车",
+      "id": "1772102577899",
+      "train_time": "1772100739697-1772101988633",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "80km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-26",
+      "training_name": "热身",
+      "id": "1772102587907",
+      "train_time": "1772102697746-1772103298405",
+      "calorie": 43,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 2
+        },
+        {
+          "name": "单臂侧转",
+          "order": 3
+        },
+        {
+          "name": "斜凳胸背扩",
+          "order": 4
+        },
+        {
+          "name": "抱肘侧屈体",
+          "order": 5
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 6
+        },
+        {
+          "name": "壶铃杯式深蹲",
+          "order": 7
+        },
+        {
+          "name": "壶铃硬拉",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-26",
+      "training_name": "周三 LISS",
+      "id": "1772103308670",
+      "train_time": "1772103847420-1772107594334",
+      "calorie": 513,
+      "exercises": [
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-27",
+      "training_name": "自行车",
+      "id": "1772188670960",
+      "train_time": "1772187179287-1772188168320",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "88km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-27",
+      "training_name": "热身",
+      "id": "1772179405343",
+      "train_time": "1772188676583-1772189654345",
+      "calorie": 40,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 2
+        },
+        {
+          "name": "单臂侧转",
+          "order": 3
+        },
+        {
+          "name": "斜凳胸背扩",
+          "order": 4
+        },
+        {
+          "name": "抱肘侧屈体",
+          "order": 5
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 6
+        },
+        {
+          "name": "壶铃杯式深蹲",
+          "order": 7
+        },
+        {
+          "name": "壶铃硬拉",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-27",
+      "training_name": "周一 PUSH + HIIT",
+      "id": "1772190067406",
+      "train_time": "1772190090108-1772195417792",
+      "calorie": 498,
+      "exercises": [
+        {
+          "name": "单手绳索臂屈伸",
+          "order": 1
+        },
+        {
+          "name": "面拉",
+          "order": 2
+        },
+        {
+          "name": "哑铃卧推",
+          "order": 3
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "order": 4
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "器械推胸",
+          "order": 5
+        },
+        {
+          "name": "器械坐姿推举",
+          "order": 6
+        },
+        {
+          "name": "坐姿锤式握法器械肩推",
+          "order": 7
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 8
+        },
+        {
+          "name": "双杠臂屈伸（辅助）",
+          "order": 9
+        },
+        {
+          "name": "器械三头下压（正向）",
+          "order": 10
+        },
+        {
+          "name": "划船机HIIT",
+          "order": 11
+        },
+        {
+          "name": "坐姿杠杆臂屈伸",
+          "order": 12
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-27",
+      "training_name": "上肢拉伸",
+      "id": "1772179378263",
+      "train_time": "1772195437334-1772195869970",
+      "calorie": 10,
+      "exercises": [
+        {
+          "name": "胸背拉伸",
+          "order": 2
+        },
+        {
+          "name": "单手扶墙拉伸",
+          "order": 3
+        },
+        {
+          "name": "站姿单臂胸部伸展",
+          "order": 4
+        },
+        {
+          "name": "头顶胸部拉伸",
+          "order": 5
+        },
+        {
+          "name": "后背正反手拉伸",
+          "order": 6
+        },
+        {
+          "name": "过头三头拉伸",
+          "order": 7
+        },
+        {
+          "name": "单手抱头侧身",
+          "order": 8
+        },
+        {
+          "name": "手臂交叉拉伸",
+          "order": 9
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-27",
+      "training_name": "自行车",
+      "id": "1772197719712",
+      "train_time": "1772196403197-1772196629083",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "86km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-28",
+      "training_name": "自行车",
+      "id": "1772275567036",
+      "train_time": "1772273570279-1772274953343",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "09km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-28",
+      "training_name": "热身",
+      "id": "1772260730518",
+      "train_time": "1772275570288-1772276042314",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 2
+        },
+        {
+          "name": "单臂侧转",
+          "order": 3
+        },
+        {
+          "name": "斜凳胸背扩",
+          "order": 4
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 6
+        },
+        {
+          "name": "壶铃杯式深蹲",
+          "order": 7
+        },
+        {
+          "name": "壶铃硬拉",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-28",
+      "training_name": "周五 LEG + LISS",
+      "id": "1772260752810",
+      "train_time": "1772276259950-1772280652305",
+      "calorie": 319,
+      "exercises": [
+        {
+          "name": "哑铃RDL超级组",
+          "order": 1
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "器械臀冲",
+          "order": 3
+        },
+        {
+          "name": "器械驴踢",
+          "order": 4
+        },
+        {
+          "name": "山羊挺身",
+          "order": 5
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 6
+        },
+        {
+          "name": "坐姿腿屈伸",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-02-28",
+      "training_name": "臀腿松解",
+      "id": "1772260766516",
+      "train_time": "1772280728011-1772280934873",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "单手扶墙腿拉伸",
+          "order": 2
+        },
+        {
+          "name": "滚轮腿交叉",
+          "order": 3
+        },
+        {
+          "name": "坐姿腘绳肌与臀部泡沫轴放松",
+          "order": 5
+        },
+        {
+          "name": "大腿外侧强化松解",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-01",
+      "training_name": "步行",
+      "id": "1772370039799",
+      "train_time": "1772336639288-1772338404121",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "95km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-02",
+      "training_name": "自行车",
+      "id": "1772448085528",
+      "train_time": "1772446363475-1772447679292",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "95km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-02",
+      "training_name": "热身",
+      "id": "1772448090223",
+      "train_time": "1772448179102-1772448501603",
+      "calorie": 5,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 2
+        },
+        {
+          "name": "单臂侧转",
+          "order": 3
+        },
+        {
+          "name": "斜凳胸背扩",
+          "order": 4
+        },
+        {
+          "name": "抱肘侧屈体",
+          "order": 5
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 6
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-02",
+      "training_name": "周三 LISS",
+      "id": "1772448516524",
+      "train_time": "1772448718277-1772453878641",
+      "calorie": 504,
+      "exercises": [
+        {
+          "name": "器械推胸",
+          "order": 3
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 4
+        },
+        {
+          "name": "面拉",
+          "order": 5
+        },
+        {
+          "name": "站姿绳索反握弯举_直杆",
+          "order": 6
+        },
+        {
+          "name": "绳索直臂下压",
+          "order": 7
+        },
+        {
+          "name": "锤式弯举",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-03",
+      "training_name": "自行车",
+      "id": "1772507440174",
+      "train_time": "1772498754812-1772498952946",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "51km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-03",
+      "training_name": "自行车",
+      "id": "1772548658147",
+      "train_time": "1772533478231-1772533689159",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "60km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-04",
+      "training_name": "自行车",
+      "id": "1772597847843",
+      "train_time": "1772584699707-1772584903410",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "68km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-04",
+      "training_name": "自行车",
+      "id": "1772621086266",
+      "train_time": "1772619412514-1772620336453",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "50km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-04",
+      "training_name": "自行车",
+      "id": "1772629890088",
+      "train_time": "1772626440789-1772626815167",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "83km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-05",
+      "training_name": "自行车",
+      "id": "1772679757111",
+      "train_time": "1772670794729-1772671028299",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "60km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-05",
+      "training_name": "自行车",
+      "id": "1772707820339",
+      "train_time": "1772706121723-1772707404432",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "86km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-05",
+      "training_name": "热身",
+      "id": "1772707820218",
+      "train_time": "1772707823177-1772708026343",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 2
+        },
+        {
+          "name": "单臂侧转",
+          "order": 3
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 6
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-05",
+      "training_name": "周四 PULL + HIIT！",
+      "id": "1772708028929",
+      "train_time": "1772708090617-1772713042915",
+      "calorie": 462,
+      "exercises": [
+        {
+          "name": "绳索直臂下压",
+          "order": 1
+        },
+        {
+          "name": "面拉",
+          "order": 2
+        },
+        {
+          "name": "引体向上（辅助）",
+          "order": 4
+        },
+        {
+          "name": "器械下拉（版本2）",
+          "order": 6
+        },
+        {
+          "name": "器械下拉",
+          "order": 7
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "order": 9
+        },
+        {
+          "name": "坐姿划船",
+          "order": 10
+        },
+        {
+          "name": "绳索直背坐姿划船",
+          "order": 11
+        },
+        {
+          "name": "动感单车-Tabata",
+          "order": 12
+        },
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 14
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 15
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-05",
+      "training_name": "上肢拉伸",
+      "id": "1772713046399",
+      "train_time": "1772713054923-1772713374189",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "胸背拉伸",
+          "order": 2
+        },
+        {
+          "name": "单手扶墙拉伸",
+          "order": 3
+        },
+        {
+          "name": "站姿单臂胸部伸展",
+          "order": 4
+        },
+        {
+          "name": "头顶胸部拉伸",
+          "order": 5
+        },
+        {
+          "name": "后背正反手拉伸",
+          "order": 6
+        },
+        {
+          "name": "过头三头拉伸",
+          "order": 7
+        },
+        {
+          "name": "单手抱头侧身",
+          "order": 8
+        },
+        {
+          "name": "手臂交叉拉伸",
+          "order": 9
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-06",
+      "training_name": "自行车",
+      "id": "1772795422385",
+      "train_time": "1772794234878-1772794758469",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "14km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-06",
+      "training_name": "周五 LEG + LISS",
+      "id": "1772795421956",
+      "train_time": "1772795656564-1772800972709",
+      "calorie": 481,
+      "exercises": [
+        {
+          "name": "哑铃RDL超级组",
+          "order": 1
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "自重臀冲",
+          "order": 2
+        },
+        {
+          "name": "器械臀冲",
+          "order": 3
+        },
+        {
+          "name": "器械驴踢",
+          "order": 4
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 5
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 6
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 7
+        },
+        {
+          "name": "器械推胸（版本2）",
+          "order": 8
+        },
+        {
+          "name": "器械单臂胸推",
+          "order": 9
+        },
+        {
+          "name": "蝴蝶机飞鸟",
+          "order": 10
+        },
+        {
+          "name": "器械坐姿推举",
+          "order": 11
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-06",
+      "training_name": "自行车",
+      "id": "1772804024680",
+      "train_time": "1772801997558-1772802613490",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "07km",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-09",
+      "training_name": "步行",
+      "id": "1773020621480",
+      "train_time": "1773014140974-1773014759475",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "97km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-09",
+      "training_name": "自行车",
+      "id": "1773053182119",
+      "train_time": "1773051063401-1773052699885",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "34km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-09",
+      "training_name": "热身",
+      "id": "1773053186297",
+      "train_time": "1773053189026-1773053475255",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 2
+        },
+        {
+          "name": "单臂侧转",
+          "order": 3
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 6
+        },
+        {
+          "name": "壶铃杯式深蹲",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-09",
+      "training_name": "周一 PUSH + HIIT",
+      "id": "1773053478242",
+      "train_time": "1773053568561-1773059682414",
+      "calorie": 535,
+      "exercises": [
+        {
+          "name": "单手绳索臂屈伸",
+          "order": 1
+        },
+        {
+          "name": "面拉",
+          "order": 2
+        },
+        {
+          "name": "哑铃卧推",
+          "order": 3
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "order": 4
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "上斜锤式弯举",
+          "order": 5
+        },
+        {
+          "name": "5kg",
+          "order": 7
+        },
+        {
+          "name": "5kg",
+          "order": 7
+        },
+        {
+          "name": "5kg",
+          "order": 7
+        },
+        {
+          "name": "5kg",
+          "order": 7
+        },
+        {
+          "name": "器械推胸",
+          "order": 6
+        },
+        {
+          "name": "划船机HIIT",
+          "order": 8
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 11
+        },
+        {
+          "name": "器械三头下压（正向）",
+          "order": 12
+        },
+        {
+          "name": "绳索直臂下压",
+          "order": 14
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-09",
+      "training_name": "上肢拉伸",
+      "id": "1773059672492",
+      "train_time": "1773059713064-1773059803475",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "胸背拉伸",
+          "order": 2
+        },
+        {
+          "name": "单手扶墙拉伸",
+          "order": 3
+        },
+        {
+          "name": "站姿单臂胸部伸展",
+          "order": 4
+        },
+        {
+          "name": "头顶胸部拉伸",
+          "order": 5
+        },
+        {
+          "name": "后背正反手拉伸",
+          "order": 6
+        },
+        {
+          "name": "过头三头拉伸",
+          "order": 7
+        },
+        {
+          "name": "单手抱头侧身",
+          "order": 8
+        },
+        {
+          "name": "手臂交叉拉伸",
+          "order": 9
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-09",
+      "training_name": "自行车",
+      "id": "1773063094294",
+      "train_time": "1773060275261-1773060465576",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "73km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-10",
+      "training_name": "自行车",
+      "id": "1773139390605",
+      "train_time": "1773137485669-1773139114569",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "29km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-10",
+      "training_name": "热身",
+      "id": "1773139394727",
+      "train_time": "1773139400690-1773139712471",
+      "calorie": 9,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 2
+        },
+        {
+          "name": "单臂侧转",
+          "order": 3
+        },
+        {
+          "name": "斜凳胸背扩",
+          "order": 4
+        },
+        {
+          "name": "壶铃杯式深蹲",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-10",
+      "training_name": "周二 LEG + LISS",
+      "id": "1773139714929",
+      "train_time": "1773139979792-1773147248974",
+      "calorie": 756,
+      "exercises": [
+        {
+          "name": "哑铃RDL超级组",
+          "order": 1
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "器械臀冲",
+          "order": 2
+        },
+        {
+          "name": "器械后蹬",
+          "order": 3
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 5
+        },
+        {
+          "name": "山羊挺身",
+          "order": 6
+        },
+        {
+          "name": "坐姿髋内收",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-10",
+      "training_name": "自行车",
+      "id": "1773149735398",
+      "train_time": "1773147336018-1773147537657",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "77km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-11",
+      "training_name": "周三跑步有氧",
+      "id": "1773225758727",
+      "train_time": "0-0",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "单手扶墙腿拉伸",
+          "order": 5
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-11",
+      "training_name": "自行车",
+      "id": "1773202866431",
+      "train_time": "1773189810712-1773190008290",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "69km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-11",
+      "training_name": "自行车",
+      "id": "1773225747196",
+      "train_time": "1773224074146-1773225196551",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "57km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-11",
+      "training_name": "自行车",
+      "id": "1773233738160",
+      "train_time": "1773228905870-1773229331786",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "19km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-12",
+      "training_name": "自行车",
+      "id": "1773276243679",
+      "train_time": "1773276032151-1773276223744",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "56km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-12",
+      "training_name": "自行车",
+      "id": "1773312155990",
+      "train_time": "1773310278573-1773311227580",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "88km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-12",
+      "training_name": "热身",
+      "id": "1773281622353",
+      "train_time": "1773312156817-1773312166489",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 2
+        },
+        {
+          "name": "单臂侧转",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-12",
+      "training_name": "周四 PULL + HIIT",
+      "id": "1773284839140",
+      "train_time": "1773312194032-1773318447993",
+      "calorie": 532,
+      "exercises": [
+        {
+          "name": "绳索直臂下压",
+          "order": 1
+        },
+        {
+          "name": "面拉",
+          "order": 2
+        },
+        {
+          "name": "跪姿弹力带划船",
+          "order": 3
+        },
+        {
+          "name": "引体向上（辅助）",
+          "order": 4
+        },
+        {
+          "name": "窄距引体向上（辅助）",
+          "order": 5
+        },
+        {
+          "name": "器械下拉（版本2）",
+          "order": 6
+        },
+        {
+          "name": "器械下拉",
+          "order": 7
+        },
+        {
+          "name": "单手下拉",
+          "order": 8
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "order": 9
+        },
+        {
+          "name": "动感单车-Tabata",
+          "order": 10
+        },
+        {
+          "name": "坐姿划船",
+          "order": 11
+        },
+        {
+          "name": "绳索直背坐姿划船",
+          "order": 12
+        },
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 13
+        },
+        {
+          "name": "器械三头下压（正向）",
+          "order": 14
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-12",
+      "training_name": "自行车",
+      "id": "1773320883467",
+      "train_time": "1773318436209-1773318623197",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "78km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-13",
+      "training_name": "自行车",
+      "id": "1773366042517",
+      "train_time": "1773362664354-1773362856127",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "58km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-13",
+      "training_name": "自行车",
+      "id": "1773400828307",
+      "train_time": "1773399603659-1773399946601",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "08km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-13",
+      "training_name": "周五 LEG + LISS",
+      "id": "1773399325800",
+      "train_time": "1773400832880-1773406097865",
+      "calorie": 329,
+      "exercises": [
+        {
+          "name": "哑铃RDL超级组",
+          "order": 1
+        },
+        {
+          "name": "器械臀冲",
+          "order": 2
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 3
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 4
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 5
+        },
+        {
+          "name": "器械推胸（版本2）",
+          "order": 6
+        },
+        {
+          "name": "器械单臂胸推",
+          "order": 7
+        },
+        {
+          "name": "蝴蝶机飞鸟",
+          "order": 8
+        },
+        {
+          "name": "器械坐姿推举",
+          "order": 9
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-15",
+      "training_name": "自行车",
+      "id": "1773639374240",
+      "train_time": "1773570854973-1773571578893",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "76km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-16",
+      "training_name": "自行车",
+      "id": "1773657662707",
+      "train_time": "1773655910172-1773657186018",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "07km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-16",
+      "training_name": "周一 PUSH + HIIT",
+      "id": "1773657666763",
+      "train_time": "1773657863415-1773667290401",
+      "calorie": 811,
+      "exercises": [
+        {
+          "name": "站姿绳索反握弯举_直杆",
+          "order": 1
+        },
+        {
+          "name": "面拉",
+          "order": 2
+        },
+        {
+          "name": "哑铃卧推",
+          "order": 3
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "order": 4
+        },
+        {
+          "name": "上斜锤式弯举",
+          "order": 5
+        },
+        {
+          "name": "5kg",
+          "order": 7
+        },
+        {
+          "name": "5kg",
+          "order": 7
+        },
+        {
+          "name": "5kg",
+          "order": 7
+        },
+        {
+          "name": "5kg",
+          "order": 7
+        },
+        {
+          "name": "器械推胸",
+          "order": 6
+        },
+        {
+          "name": "器械坐姿推举",
+          "order": 7
+        },
+        {
+          "name": "划船机HIIT",
+          "order": 8
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 9
+        },
+        {
+          "name": "器械三头下压（正向）",
+          "order": 10
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-17",
+      "training_name": "自行车",
+      "id": "1773713019448",
+      "train_time": "1773707937557-1773708136041",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "62km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-17",
+      "training_name": "自行车",
+      "id": "1773744209860",
+      "train_time": "1773742569598-1773743703437",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "96km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-17",
+      "training_name": "周二 LEG + LISS",
+      "id": "1773732881404",
+      "train_time": "1773743877424-1773749599819",
+      "calorie": 558,
+      "exercises": [
+        {
+          "name": "哑铃RDL超级组",
+          "order": 1
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 2
+        },
+        {
+          "name": "坐姿髋内收",
+          "order": 3
+        },
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 5
+        },
+        {
+          "name": "双杠垂直举腿_进阶版",
+          "order": 6
+        },
+        {
+          "name": "坐姿腿屈伸",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-19",
+      "training_name": "自行车",
+      "id": "1773916943902",
+      "train_time": "1773915199015-1773916458127",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "25km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-19",
+      "training_name": "周四 PULL + HIIT",
+      "id": "1773906986859",
+      "train_time": "1773917125235-1773922119118",
+      "calorie": 427,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "引体向上（辅助）",
+          "order": 2
+        },
+        {
+          "name": "窄距引体向上（辅助）",
+          "order": 3
+        },
+        {
+          "name": "器械下拉（版本2）",
+          "order": 4
+        },
+        {
+          "name": "器械下拉",
+          "order": 5
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "order": 6
+        },
+        {
+          "name": "坐姿划船",
+          "order": 7
+        },
+        {
+          "name": "绳索直背坐姿划船",
+          "order": 8
+        },
+        {
+          "name": "动感单车-Tabata",
+          "order": 9
+        },
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 10
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-19",
+      "training_name": "自行车",
+      "id": "1773926271746",
+      "train_time": "1773923088953-1773923298619",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "54km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-20",
+      "training_name": "自行车",
+      "id": "1773968138605",
+      "train_time": "1773967648765-1773967838891",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "62km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-20",
+      "training_name": "周五 LEG + LISS",
+      "id": "1774004988881",
+      "train_time": "1774004998043-1774010487155",
+      "calorie": 593,
+      "exercises": [
+        {
+          "name": "哑铃臀腿超级组",
+          "order": 1
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 2
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 3
+        },
+        {
+          "name": "上斜卷腹转体",
+          "order": 4
+        },
+        {
+          "name": "器械推胸（版本2）",
+          "order": 5
+        },
+        {
+          "name": "器械坐姿推举",
+          "order": 6
+        },
+        {
+          "name": "蝴蝶机飞鸟",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-22",
+      "training_name": "自行车",
+      "id": "1774186985898",
+      "train_time": "1774177137520-1774177694626",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "69km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-23",
+      "training_name": "自行车",
+      "id": "1774262332499",
+      "train_time": "1774260842468-1774262048698",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "80km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-23",
+      "training_name": "周一 PUSH + HIIT",
+      "id": "1774236731766",
+      "train_time": "1774262568371-1774267766072",
+      "calorie": 411,
+      "exercises": [
+        {
+          "name": "站姿绳索反握弯举_直杆",
+          "order": 1
+        },
+        {
+          "name": "面拉",
+          "order": 2
+        },
+        {
+          "name": "哑铃卧推",
+          "order": 3
+        },
+        {
+          "name": "75kg",
+          "order": 1
+        },
+        {
+          "name": "75kg",
+          "order": 1
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "order": 4
+        },
+        {
+          "name": "上斜锤式弯举",
+          "order": 5
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 6
+        },
+        {
+          "name": "器械坐姿推举",
+          "order": 7
+        },
+        {
+          "name": "划船机HIIT",
+          "order": 8
+        },
+        {
+          "name": "器械推胸",
+          "order": 9
+        },
+        {
+          "name": "器械三头下压（正向）",
+          "order": 10
+        },
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 11
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-23",
+      "training_name": "自行车",
+      "id": "1774268908749",
+      "train_time": "1774268268990-1774268460858",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "53km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-25",
+      "training_name": "自行车",
+      "id": "1774435047062",
+      "train_time": "1774433557973-1774434652338",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "62km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-25",
+      "training_name": "周二 LEG + LISS",
+      "id": "1774435051956",
+      "train_time": "1774435439297-1774440845971",
+      "calorie": 596,
+      "exercises": [
+        {
+          "name": "哑铃RDL超级组",
+          "order": 1
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "弹力带髋部拉动_拉力带穿越",
+          "order": 2
+        },
+        {
+          "name": "器械臀冲",
+          "order": 3
+        },
+        {
+          "name": "器械后蹬",
+          "order": 4
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 5
+        },
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-25",
+      "training_name": "自行车",
+      "id": "1774443123675",
+      "train_time": "1774441005943-1774441240066",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "70km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-26",
+      "training_name": "自行车",
+      "id": "1774493478117",
+      "train_time": "1774485638955-1774485833959",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "67km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-26",
+      "training_name": "自行车",
+      "id": "1774522325466",
+      "train_time": "1774520078541-1774521643978",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "26km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-26",
+      "training_name": "周四 PULL + HIIT",
+      "id": "1774522326086",
+      "train_time": "1774522334782-1774527187960",
+      "calorie": 505,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "引体向上（辅助）",
+          "order": 2
+        },
+        {
+          "name": "双杠臂屈伸（辅助）",
+          "order": 3
+        },
+        {
+          "name": "窄距引体向上（辅助）",
+          "order": 4
+        },
+        {
+          "name": "器械下拉（版本2）",
+          "order": 5
+        },
+        {
+          "name": "器械下拉",
+          "order": 6
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "order": 7
+        },
+        {
+          "name": "坐姿划船",
+          "order": 8
+        },
+        {
+          "name": "绳索直背坐姿划船",
+          "order": 9
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-26",
+      "training_name": "自行车",
+      "id": "1774528425072",
+      "train_time": "1774527731052-1774528015666",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "83km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-27",
+      "training_name": "周五 LEG + LISS",
+      "id": "1774609760669",
+      "train_time": "1774610037569-1774614966251",
+      "calorie": 336,
+      "exercises": [
+        {
+          "name": "臀腿超级组",
+          "order": 1
+        },
+        {
+          "name": "弹力带髋部拉动_拉力带穿越",
+          "order": 2
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 3
+        },
+        {
+          "name": "悍马机臀冲",
+          "order": 4
+        },
+        {
+          "name": "坐姿髋内收",
+          "order": 5
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-29",
+      "training_name": "自行车",
+      "id": "1774830105473",
+      "train_time": "1774770987242-1774771880526",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "24km",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-29",
+      "training_name": "自行车",
+      "id": "1774830104878",
+      "train_time": "1774782753121-1774784872763",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "31km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-30",
+      "training_name": "步行",
+      "id": "1774830104261",
+      "train_time": "1774829366988-1774829994942",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "81km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-30",
+      "training_name": "自行车",
+      "id": "1774943368104",
+      "train_time": "1774865806049-1774866838872",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "05km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-31",
+      "training_name": "自行车",
+      "id": "1774943367590",
+      "train_time": "1774940738602-1774943023983",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "57km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-31",
+      "training_name": "周二 LEG + LISS",
+      "id": "1774943368455",
+      "train_time": "1774943871581-1774949006108",
+      "calorie": 515,
+      "exercises": [
+        {
+          "name": "臀腿超级组",
+          "order": 1
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "5kg",
+          "order": 12
+        },
+        {
+          "name": "器械臀冲",
+          "order": 2
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 3
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-03-31",
+      "training_name": "自行车",
+      "id": "1775026115435",
+      "train_time": "1774949331272-1774949690623",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "77km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-01",
+      "training_name": "自行车",
+      "id": "1775026114864",
+      "train_time": "1775023845675-1775025228368",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "80km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-01",
+      "training_name": "1.器械坐姿单臂后束飞鸟",
+      "id": "1775026382030",
+      "train_time": "1775026443589-1775032330533",
+      "calorie": 573,
+      "exercises": [
+        {
+          "name": "器械坐姿单臂后束飞鸟",
+          "order": 1
+        },
+        {
+          "name": "单手下拉",
+          "order": 2
+        },
+        {
+          "name": "器械单臂胸推",
+          "order": 3
+        },
+        {
+          "name": "坐姿单手划船",
+          "order": 4
+        },
+        {
+          "name": "杠杆坐姿卷腹",
+          "order": 6
+        },
+        {
+          "name": "器械三头下压（正向）",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-01",
+      "training_name": "自行车",
+      "id": "1775042188422",
+      "train_time": "1775033040001-1775033279761",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "53km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-02",
+      "training_name": "臀腿松解",
+      "id": "1775130818491",
+      "train_time": "0-0",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "单手扶墙腿拉伸",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-02",
+      "training_name": "自行车",
+      "id": "1775126163981",
+      "train_time": "1775124675161-1775125883643",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "58km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-02",
+      "training_name": "每日热身",
+      "id": "1775126165300",
+      "train_time": "1775126167417-1775126387937",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "肩内外旋动态拉伸",
+          "order": 1
+        },
+        {
+          "name": "单臂侧转",
+          "order": 2
+        },
+        {
+          "name": "靠墙静蹲",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-02",
+      "training_name": "周四肩臀",
+      "id": "1775123297405",
+      "train_time": "1775126816322-1775130702809",
+      "calorie": 385,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "器械坐姿推举",
+          "order": 2
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "order": 3
+        },
+        {
+          "name": "器械坐姿单臂后束飞鸟",
+          "order": 4
+        },
+        {
+          "name": "器械臀冲",
+          "order": 5
+        },
+        {
+          "name": "杠杆坐姿腿屈伸",
+          "order": 6
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 7
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-02",
+      "training_name": "自行车",
+      "id": "1775132311566",
+      "train_time": "1775131351686-1775131629076",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "85km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-03",
+      "training_name": "上肢拉伸",
+      "id": "1775217636272",
+      "train_time": "0-0",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "胸背拉伸",
+          "order": 1
+        },
+        {
+          "name": "单手扶墙拉伸",
+          "order": 2
+        },
+        {
+          "name": "过头三头拉伸",
+          "order": 4
+        },
+        {
+          "name": "手臂交叉拉伸",
+          "order": 5
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-03",
+      "training_name": "自行车",
+      "id": "1775181634232",
+      "train_time": "1775177304156-1775177676045",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "55km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-03",
+      "training_name": "步行",
+      "id": "1775215093192",
+      "train_time": "1775213410995-1775214085263",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "84km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-03",
+      "training_name": "周五躯臂",
+      "id": "1775199497570",
+      "train_time": "1775215238784-1775220223196",
+      "calorie": 366,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "器械推胸",
+          "order": 2
+        },
+        {
+          "name": "器械单臂胸推",
+          "order": 3
+        },
+        {
+          "name": "坐姿划船",
+          "order": 4
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 5
+        },
+        {
+          "name": "坐姿髋内收",
+          "order": 6
+        },
+        {
+          "name": "坐姿腿弯举",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-03",
+      "training_name": "自行车",
+      "id": "1775464651234",
+      "train_time": "1775221821687-1775222119724",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "11km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-06",
+      "training_name": "自行车",
+      "id": "1775541603521",
+      "train_time": "1775474977802-1775475527747",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "60km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-07",
+      "training_name": "步行",
+      "id": "1775559875754",
+      "train_time": "1775558811740-1775559432817",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "89km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-07",
+      "training_name": "周五躯臂",
+      "id": "1775558686893",
+      "train_time": "1775559888363-1775565074138",
+      "calorie": 433,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "器械推胸",
+          "order": 2
+        },
+        {
+          "name": "器械单臂胸推",
+          "order": 3
+        },
+        {
+          "name": "坐姿划船",
+          "order": 4
+        },
+        {
+          "name": "坐姿腿弯举",
+          "order": 5
+        },
+        {
+          "name": "杠铃罗马尼亚硬拉",
+          "order": 6
+        },
+        {
+          "name": "坐姿单手划船",
+          "order": 7
+        },
+        {
+          "name": "宽距高位下拉",
+          "order": 8
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "order": 9
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 10
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-07",
+      "training_name": "自行车",
+      "id": "1775567632986",
+      "train_time": "1775565176482-1775565726384",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "10km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-08",
+      "training_name": "自行车",
+      "id": "1775652296109",
+      "train_time": "1775643402755-1775644175427",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "73km",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-09",
+      "training_name": "步行",
+      "id": "1775733054871",
+      "train_time": "1775731746582-1775732658178",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "01km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-09",
+      "training_name": "周五躯臂",
+      "id": "1775733072359",
+      "train_time": "1775733105965-1775737669684",
+      "calorie": 440,
+      "exercises": [
+        {
+          "name": "器械推胸",
+          "order": 1
+        },
+        {
+          "name": "坐姿腿弯举",
+          "order": 2
+        },
+        {
+          "name": "杠铃罗马尼亚硬拉",
+          "order": 3
+        },
+        {
+          "name": "罗马尼亚硬拉",
+          "order": 4
+        },
+        {
+          "name": "哑铃卧推",
+          "order": 5
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-09",
+      "training_name": "自行车",
+      "id": "1775742426648",
+      "train_time": "1775738611962-1775739343207",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "25km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-10",
+      "training_name": "跑步",
+      "id": "1775828738089",
+      "train_time": "1775819693466-1775826385597",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "59km",
+          "order": 5
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-10",
+      "training_name": "自行车",
+      "id": "1775828737522",
+      "train_time": "1775827031836-1775827267986",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "90km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-13",
+      "training_name": "自行车",
+      "id": "1776076796542",
+      "train_time": "1776075199328-1776075656218",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "58km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-13",
+      "training_name": "周一肩臀",
+      "id": "1776066426339",
+      "train_time": "1776076893352-1776081713666",
+      "calorie": 348,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "悍马机推胸",
+          "order": 2
+        },
+        {
+          "name": "悍马机正手下拉",
+          "order": 3
+        },
+        {
+          "name": "宽距高位下拉",
+          "order": 4
+        },
+        {
+          "name": "拉杆坐姿划船(宽握)",
+          "order": 5
+        },
+        {
+          "name": "5kg",
+          "order": 37
+        },
+        {
+          "name": "5kg",
+          "order": 52
+        },
+        {
+          "name": "坐姿锤式握法器械肩推",
+          "order": 6
+        },
+        {
+          "name": "悍马机-鹦鹉螺",
+          "order": 7
+        },
+        {
+          "name": "悍马机划船(v1)",
+          "order": 8
+        },
+        {
+          "name": "轨道划船器划船",
+          "order": 9
+        },
+        {
+          "name": "分动式高位划船",
+          "order": 10
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-13",
+      "training_name": "自行车",
+      "id": "1776087382655",
+      "train_time": "1776082874588-1776085408249",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "87km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-14",
+      "training_name": "周二躯臂",
+      "id": "1776162631281",
+      "train_time": "1776162680846-1776168227288",
+      "calorie": 554,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "order": 2
+        },
+        {
+          "name": "哑铃锤式交替弯举",
+          "order": 3
+        },
+        {
+          "name": "器械推胸（版本4）",
+          "order": 4
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 5
+        },
+        {
+          "name": "哑铃卧推",
+          "order": 6
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-14",
+      "training_name": "自行车",
+      "id": "1776249876146",
+      "train_time": "1776168894996-1776170315988",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "28km",
+          "order": 4
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-15",
+      "training_name": "自行车",
+      "id": "1776249875466",
+      "train_time": "1776212521833-1776212712596",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "55km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-15",
+      "training_name": "自行车",
+      "id": "1776249874784",
+      "train_time": "1776247894864-1776248949882",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "99km",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-15",
+      "training_name": "周四肩臀",
+      "id": "1776249917770",
+      "train_time": "1776249935446-1776255599032",
+      "calorie": 558,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "杠铃罗马尼亚硬拉",
+          "order": 2
+        },
+        {
+          "name": "悍马机臀冲",
+          "order": 3
+        },
+        {
+          "name": "坐姿腿弯举",
+          "order": 4
+        },
+        {
+          "name": "杠杆坐姿腿屈伸",
+          "order": 5
+        },
+        {
+          "name": "器械倒蹬",
+          "order": 6
+        },
+        {
+          "name": "山羊挺身",
+          "order": 7
+        },
+        {
+          "name": "坐姿髋内收",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-15",
+      "training_name": "自行车",
+      "id": "1776258970790",
+      "train_time": "1776256404680-1776256774676",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "00km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-19",
+      "training_name": "自行车",
+      "id": "1776673130137",
+      "train_time": "1776593978064-1776594375943",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "23km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-21",
+      "training_name": "自行车",
+      "id": "1776768860404",
+      "train_time": "1776766597163-1776767539153",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "77km",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-21",
+      "training_name": "周二 LEG",
+      "id": "1776756292222",
+      "train_time": "1776768278814-1776772616607",
+      "calorie": 333,
+      "exercises": [
+        {
+          "name": "罗马尼亚硬拉",
+          "order": 1
+        },
+        {
+          "name": "坐姿腿弯举",
+          "order": 2
+        },
+        {
+          "name": "臀冲架臀冲",
+          "order": 3
+        },
+        {
+          "name": "腿举",
+          "order": 4
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 5
+        },
+        {
+          "name": "杠杆坐姿腿屈伸",
+          "order": 6
+        },
+        {
+          "name": "悍马机卷腹",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-22",
+      "training_name": "自行车",
+      "id": "1776831658413",
+      "train_time": "1776818519425-1776819055449",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "51km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-22",
+      "training_name": "周三 PULL",
+      "id": "1776838513063",
+      "train_time": "1776854457055-1776858678061",
+      "calorie": 320,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "对握高位下拉",
+          "order": 2
+        },
+        {
+          "name": "V-bar下拉",
+          "order": 3
+        },
+        {
+          "name": "绳索直背坐姿划船",
+          "order": 4
+        },
+        {
+          "name": "悍马机划船(v1)",
+          "order": 5
+        },
+        {
+          "name": "蝴蝶机反向飞鸟",
+          "order": 6
+        },
+        {
+          "name": "站姿杠铃提踵",
+          "order": 7
+        },
+        {
+          "name": "上斜卷腹转体",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-22",
+      "training_name": "自行车",
+      "id": "1776865015823",
+      "train_time": "1776860436147-1776861472891",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "04km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-23",
+      "training_name": "午后腓肠肌强化",
+      "id": "1776926576032",
+      "train_time": "1776926584143-1776935760581",
+      "calorie": 447,
+      "exercises": [
+        {
+          "name": "单腿地面提踵",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-23",
+      "training_name": "周四 有氧BC",
+      "id": "1776911363957",
+      "train_time": "1776943768796-1776944384588",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "站姿器械提踵",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-24",
+      "training_name": "周五 综合➕MG",
+      "id": "1777005485427",
+      "train_time": "1777028634480-1777031162776",
+      "calorie": 306,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-26",
+      "training_name": "跑步",
+      "id": "1777259576574",
+      "train_time": "1777198803351-1777202420394",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "33km",
+          "order": 7
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-27",
+      "training_name": "午后小腿强化",
+      "id": "1777269767486",
+      "train_time": "1777270157478-1777278088602",
+      "calorie": 98,
+      "exercises": [
+        {
+          "name": "单腿地面提踵",
+          "order": 1
+        },
+        {
+          "name": "站姿自重提踵",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-27",
+      "training_name": "自行车",
+      "id": "1777285604537",
+      "train_time": "1777284423169-1777285155024",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "19km",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-27",
+      "training_name": "周一 PUSH",
+      "id": "1777259052669",
+      "train_time": "1777285633697-1777289840901",
+      "calorie": 265,
+      "exercises": [
+        {
+          "name": "面拉",
+          "order": 1
+        },
+        {
+          "name": "哑铃卧推",
+          "order": 2
+        },
+        {
+          "name": "下斜悍马机推胸",
+          "order": 3
+        },
+        {
+          "name": "悍马机推胸",
+          "order": 4
+        },
+        {
+          "name": "器械坐姿推举",
+          "order": 5
+        },
+        {
+          "name": "5次",
+          "order": 7
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "order": 6
+        },
+        {
+          "name": "反手三头臂屈伸",
+          "order": 7
+        },
+        {
+          "name": "5kg",
+          "order": 37
+        },
+        {
+          "name": "悍马机卷腹",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-27",
+      "training_name": "自行车",
+      "id": "1777296211207",
+      "train_time": "1777290635864-1777291329018",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "99km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-28",
+      "training_name": "午后小腿强化",
+      "id": "1777356596928",
+      "train_time": "1777358185711-1777366800000",
+      "calorie": 108,
+      "exercises": [
+        {
+          "name": "单腿地面提踵",
+          "order": 1
+        },
+        {
+          "name": "站姿自重提踵",
+          "order": 2
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-28",
+      "training_name": "周二 LEG",
+      "id": "1777347223960",
+      "train_time": "1777372895267-1777377705464",
+      "calorie": 368,
+      "exercises": [
+        {
+          "name": "罗马尼亚硬拉",
+          "order": 1
+        },
+        {
+          "name": "杠铃罗马尼亚硬拉",
+          "order": 2
+        },
+        {
+          "name": "坐姿腿弯举",
+          "order": 3
+        },
+        {
+          "name": "悍马机臀冲",
+          "order": 4
+        },
+        {
+          "name": "45 度斜蹬机单腿腿举",
+          "order": 5
+        },
+        {
+          "name": "坐姿髋外展",
+          "order": 6
+        },
+        {
+          "name": "上斜卷腹转体",
+          "order": 7
+        },
+        {
+          "name": "史密斯机提踵",
+          "order": 8
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-28",
+      "training_name": "自行车",
+      "id": "1777382584222",
+      "train_time": "1777378849024-1777379914220",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "52km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-30",
+      "training_name": "自行车",
+      "id": "1777532920068",
+      "train_time": "1777510087118-1777510289489",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "58km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-30",
+      "training_name": "跑步",
+      "id": "1778054948474",
+      "train_time": "1777547032584-1777550848532",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "60km",
+          "order": 6
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-04-30",
+      "training_name": "跑步",
+      "id": "1777547032781",
+      "train_time": "1777547035867-1777550768053",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "有氧训练",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-05-01",
+      "training_name": "自行车",
+      "id": "1778054947883",
+      "train_time": "1777630579032-1777631093685",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "02km",
+          "order": 3
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-05-05",
+      "training_name": "自行车",
+      "id": "1778054947372",
+      "train_time": "1777945681637-1777946210461",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "66km",
+          "order": 1
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-05-05",
+      "training_name": "自行车",
+      "id": "1778054946857",
+      "train_time": "1777955144644-1777961488819",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "03km",
+          "order": 9
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-05-05",
+      "training_name": "自行车",
+      "id": "1778054946217",
+      "train_time": "1777981631600-1777982065608",
+      "calorie": 0,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "order": 1
+        },
+        {
+          "name": "56km",
+          "order": 0
+        }
+      ],
+      "notes": "来源:训记API"
+    },
+    {
+      "date": "2026-05-08",
+      "training_name": "周三 PULL",
+      "day_of_week": "周三",
+      "calorie": 273,
+      "notes": "周三PULL补录，总容量9809.0kg",
+      "exercises": [
+        {
+          "name": "悍马机正手下拉",
+          "sets": [
+            [
+              60,
+              15
+            ],
+            [
+              70,
+              10
+            ],
+            [
+              70,
+              10
+            ]
+          ]
+        },
+        {
+          "name": "宽距高位下拉",
+          "sets": [
+            [
+              60,
+              8
+            ],
+            [
+              60,
+              8
+            ],
+            [
+              52.5,
+              10
+            ]
+          ]
+        },
+        {
+          "name": "轨道划船器划船",
+          "sets": [
+            [
+              60,
+              10
+            ],
+            [
+              60,
+              10
+            ],
+            [
+              60,
+              10
+            ]
+          ]
+        },
+        {
+          "name": "悍马机划船(v1)",
+          "sets": [
+            [
+              50,
+              10
+            ]
+          ]
+        },
+        {
+          "name": "站姿器械侧平举",
+          "sets": [
+            [
+              5,
+              10
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "name": "面拉",
+          "sets": [
+            [
+              40,
+              10
+            ],
+            [
+              50,
+              8
+            ],
+            [
+              50,
+              8
+            ]
+          ]
+        },
+        {
+          "name": "分动式高位划船",
+          "sets": [
+            [
+              25,
+              8
+            ],
+            [
+              25,
+              8
+            ],
+            [
+              25,
+              10
+            ]
+          ]
+        },
+        {
+          "name": "站姿绳索反握弯举(直杆)",
+          "sets": [
+            [
+              30,
+              10
+            ],
+            [
+              35,
+              10
+            ],
+            [
+              40,
+              8
+            ]
+          ]
+        },
+        {
+          "name": "悍马机卷腹",
+          "sets": [
+            [
+              25,
+              10
+            ],
+            [
+              25,
+              10
+            ],
+            [
+              25,
+              10
+            ]
+          ]
+        }
+      ],
+      "total_capacity_kg": 9809.0
+    },
+    {
+      "date": "2026-05-08",
+      "training_name": "午后小腿强化",
+      "day_of_week": "周五",
+      "calorie": 37,
+      "total_duration_min": 57,
+      "hr_avg": 99,
+      "notes": "来源:OCR录入",
+      "exercises": [
+        {
+          "name": "单腿地面提踵",
+          "sets": [
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ],
+            [
+              10,
+              10
+            ]
+          ]
+        }
+      ],
+      "total_capacity_kg": 59
+    },
+    {
+      "date": "2026-05-09",
+      "training_name": "跑步",
+      "type": "cardio",
+      "calorie": 619,
+      "distance_km": 7.53,
+      "duration_s": 3686,
+      "exercises": [
+        {
+          "name": "苹果健康训练",
+          "sets": []
+        },
+        {
+          "name": "53km",
+          "sets": []
+        }
+      ],
+      "notes": "每日自动同步，Apple Watch有氧"
+    },
+    {
+      "date": "20t--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20o--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20o--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20 --",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20f--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20r--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20e--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20q--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20u--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20e--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20n--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20t--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20 --",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20r--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20e--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20t--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20r--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20y--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20 --",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20a--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20f--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20t--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20e--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20r--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20 --",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "204--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "205--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "20s--",
+      "training_name": "",
+      "training_type": "other",
+      "calorie": 0,
+      "exercises": [],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "2026-05-11",
+      "training_name": "午后小腿强化",
+      "training_type": "strength",
+      "calorie": 139,
+      "total_capacity": 0,
+      "exercises": [
+        {
+          "name": "单腿地面提踵",
+          "sets": []
+        }
+      ],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "2026-05-11",
+      "training_name": "步行",
+      "training_type": "cardio",
+      "calorie": 38,
+      "total_capacity": 0,
+      "exercises": [
+        {
+          "name": "44km",
+          "sets": []
+        }
+      ],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "2026-05-11",
+      "training_name": "周一 PUSH",
+      "training_type": "strength",
+      "calorie": 360,
+      "total_capacity": 8453.0,
+      "exercises": [
+        {
+          "name": "面拉",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "40kg",
+              "reps": 10
+            },
+            {
+              "set": 2,
+              "weight": "45kg",
+              "reps": 10
+            }
+          ]
+        },
+        {
+          "name": "哑铃卧推",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "44lbs",
+              "reps": 8
+            },
+            {
+              "set": 2,
+              "weight": "44lbs",
+              "reps": 8
+            },
+            {
+              "set": 3,
+              "weight": "44lbs",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "18kg",
+              "reps": 8
+            },
+            {
+              "set": 2,
+              "weight": "18kg",
+              "reps": 7
+            },
+            {
+              "set": 3,
+              "weight": "18kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "下斜悍马机推胸",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "50kg",
+              "reps": 10
+            },
+            {
+              "set": 2,
+              "weight": "60kg",
+              "reps": 10
+            },
+            {
+              "set": 3,
+              "weight": "60kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "器械坐姿推举",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "30kg",
+              "reps": 12
+            },
+            {
+              "set": 2,
+              "weight": "40kg",
+              "reps": 8
+            },
+            {
+              "set": 3,
+              "weight": "40kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "站姿器械侧平举",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "5kg",
+              "reps": 10
+            }
+          ]
+        },
+        {
+          "name": "5kg",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "5kg",
+              "reps": 10
+            }
+          ]
+        },
+        {
+          "name": "悍马机-鹦鹉螺",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "40kg",
+              "reps": 12
+            },
+            {
+              "set": 2,
+              "weight": "60kg",
+              "reps": 10
+            },
+            {
+              "set": 3,
+              "weight": "60kg",
+              "reps": 10
+            }
+          ]
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "60kg",
+              "reps": 8
+            },
+            {
+              "set": 2,
+              "weight": "55kg",
+              "reps": 8
+            },
+            {
+              "set": 3,
+              "weight": "55kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "绳索臂屈伸",
+          "sets": []
+        },
+        {
+          "name": "5kg",
+          "sets": []
+        },
+        {
+          "name": "5kg",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "35kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "悍马机卷腹",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "20kg",
+              "reps": 13
+            },
+            {
+              "set": 2,
+              "weight": "25kg",
+              "reps": 10
+            },
+            {
+              "set": 3,
+              "weight": "25kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "站姿绳索反握弯举_直杆",
+          "sets": []
+        },
+        {
+          "name": "5kg",
+          "sets": []
+        },
+        {
+          "name": "5kg",
+          "sets": []
+        },
+        {
+          "name": "5kg",
+          "sets": []
+        }
+      ],
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "2026-05-12",
+      "training_name": "午后小腿强化",
+      "type": "",
+      "exercises": [
+        {
+          "name": "单腿地面提踵",
+          "sets": []
+        }
+      ],
+      "total_capacity": 0,
+      "calorie": 101,
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "2026-05-12",
+      "training_name": "周二 LEG",
+      "type": "",
+      "exercises": [
+        {
+          "name": "罗马尼亚硬拉",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "28kg",
+              "reps": 10
+            },
+            {
+              "set": 2,
+              "weight": "30kg",
+              "reps": 8
+            },
+            {
+              "set": 3,
+              "weight": "30kg",
+              "reps": 9
+            }
+          ]
+        },
+        {
+          "name": "腿举",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "100kg",
+              "reps": 8
+            },
+            {
+              "set": 2,
+              "weight": "100kg",
+              "reps": 8
+            },
+            {
+              "set": 3,
+              "weight": "100kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "臀冲架臀冲",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "80kg",
+              "reps": 6
+            },
+            {
+              "set": 2,
+              "weight": "70kg",
+              "reps": 8
+            },
+            {
+              "set": 3,
+              "weight": "70kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "坐姿腿弯举",
+          "sets": []
+        },
+        {
+          "name": "5kg",
+          "sets": []
+        },
+        {
+          "name": "5kg",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "60kg",
+              "reps": 10
+            }
+          ]
+        },
+        {
+          "name": "坐姿髋外展",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "50kg",
+              "reps": 12
+            },
+            {
+              "set": 2,
+              "weight": "55kg",
+              "reps": 18
+            },
+            {
+              "set": 3,
+              "weight": "60kg",
+              "reps": 8
+            },
+            {
+              "set": 4,
+              "weight": "60kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "站姿器械提踵",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "90kg",
+              "reps": 10
+            },
+            {
+              "set": 2,
+              "weight": "100kg",
+              "reps": 8
+            },
+            {
+              "set": 3,
+              "weight": "100kg",
+              "reps": 10
+            }
+          ]
+        },
+        {
+          "name": "哈克机反向深蹲",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "50kg",
+              "reps": 10
+            }
+          ]
+        },
+        {
+          "name": "器械后蹬",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "10kg",
+              "reps": 12
+            },
+            {
+              "set": 2,
+              "weight": "20kg",
+              "reps": 10
+            },
+            {
+              "set": 3,
+              "weight": "30kg",
+              "reps": 10
+            }
+          ]
+        },
+        {
+          "name": "悍马机卷腹",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "25kg",
+              "reps": 10
+            },
+            {
+              "set": 2,
+              "weight": "25kg",
+              "reps": 10
+            },
+            {
+              "set": 3,
+              "weight": "25kg",
+              "reps": 10
+            }
+          ]
+        }
+      ],
+      "total_capacity": 0,
+      "calorie": 298,
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "2026-05-13",
+      "training_name": "午后小腿强化",
+      "type": "",
+      "exercises": [
+        {
+          "name": "单腿地面提踵",
+          "sets": []
+        }
+      ],
+      "total_capacity": 0,
+      "calorie": 230,
+      "notes": "每日自动同步"
+    },
+    {
+      "date": "2026-05-13",
+      "training_name": "周三 有氧BC 3.0",
+      "type": "",
+      "exercises": [
+        {
+          "name": "坐姿单手牧师凳弯举",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "8kg",
+              "reps": 12
+            },
+            {
+              "set": 2,
+              "weight": "10kg",
+              "reps": 10
+            },
+            {
+              "set": 3,
+              "weight": "12kg",
+              "reps": 8
+            },
+            {
+              "set": 4,
+              "weight": "12kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "牧师凳弯举",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "5kg",
+              "reps": 12
+            },
+            {
+              "set": 2,
+              "weight": "5kg",
+              "reps": 12
+            },
+            {
+              "set": 3,
+              "weight": "10kg",
+              "reps": 8
+            },
+            {
+              "set": 4,
+              "weight": "10kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "哑铃交替弯举",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "8kg",
+              "reps": 12
+            },
+            {
+              "set": 2,
+              "weight": "12kg",
+              "reps": 6
+            },
+            {
+              "set": 3,
+              "weight": "12kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "锤式弯举",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "8kg",
+              "reps": 12
+            },
+            {
+              "set": 2,
+              "weight": "10kg",
+              "reps": 8
+            },
+            {
+              "set": 3,
+              "weight": "10kg",
+              "reps": 8
+            }
+          ]
+        },
+        {
+          "name": "绳索臂屈伸",
+          "sets": [
+            {
+              "set": 1,
+              "weight": "30lbs",
+              "reps": 10
+            }
+          ]
+        }
+      ],
+      "total_capacity": 1324.1,
+      "calorie": 489,
+      "notes": "来源:训记API原始数据 | 三头绳索臂屈伸API仅返回1组(30lbs×10)，非截图所示4组",
+      "actual_calorie": 2708,
+      "watch_cardio_cal": 1894,
+      "total_capacity_kg": 1324.1,
+      "duration_min": 81,
+      "body_parts": [
+        "二头",
+        "三头"
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "training_name": "步行",
+      "type": "",
+      "exercises": [
+        {
+          "name": "3.15km",
+          "sets": []
+        }
+      ],
+      "total_capacity": 0,
+      "calorie": 325,
+      "notes": "来源:训记API（距离已修正: 15km→3.15km）"
+    }
+  ],
+  "diet_logs": [
+    {
+      "date": "2026-04-16",
+      "meals": {
+        "breakfast": {
+          "protein_g": 34,
+          "carbs_g": null,
+          "fat_g": null,
+          "items": [
+            "海参25g",
+            "鸡蛋110g",
+            "酸奶150g",
+            "奇亚籽10g",
+            "麦片20g",
+            "无糖卡布奇诺300g"
+          ]
+        },
+        "lunch": {
+          "protein_g": 60,
+          "carbs_g": 110,
+          "fat_g": 23,
+          "items": [
+            "KEXZHE 30g",
+            "米饭180g",
+            "正大鸡排80g",
+            "牛排50g",
+            "油焕大虾80g",
+            "凉拌杂蔬150g",
+            "鸡蛋55g",
+            "土豆150g"
+          ]
+        },
+        "dinner": {
+          "protein_g": 43,
+          "carbs_g": 53,
+          "fat_g": 30,
+          "items": [
+            "米饭150g",
+            "牛筋叉50g",
+            "苋菜50g",
+            "银鱼炒蛋100g",
+            "牛肋排50g",
+            "蚂蚁上树50g"
+          ]
+        },
+        "pre_workout": {
+          "protein_g": 0,
+          "carbs_g": 18,
+          "fat_g": 0,
+          "items": [
+            "葡萄糖电解质粉10g"
+          ]
+        },
+        "post_workout": {
+          "protein_g": 21,
+          "carbs_g": 3,
+          "fat_g": 0,
+          "items": [
+            "ON乳清蛋白粉30g"
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "meals": {
+        "breakfast": {
+          "protein_g": 40,
+          "carbs_g": null,
+          "fat_g": null,
+          "calories": 793,
+          "items": [
+            "嘉兴肉粽子100g",
+            "酸奶150g",
+            "奇亚籽10g",
+            "麦片20g",
+            "卡布奇诺300g",
+            "海参25g",
+            "鸡蛋110g"
+          ]
+        },
+        "lunch": {
+          "protein_g": 95,
+          "carbs_g": 190,
+          "fat_g": 22,
+          "items": [
+            "米饭150g",
+            "凉拌杂蔬400g",
+            "红烧牛肉20g",
+            "牛筋丸50g",
+            "眼肉牛排50g",
+            "鸡蛋55g",
+            "蒸山药120g"
+          ]
+        },
+        "dinner": {
+          "protein_g": 19,
+          "carbs_g": 32,
+          "fat_g": 5,
+          "items": [
+            "紫苏牛蛙50g",
+            "米饭100g",
+            "卤味拼盘50g",
+            "美加佳3M20g"
+          ]
+        },
+        "pre_workout": {
+          "protein_g": 0,
+          "carbs_g": 8,
+          "fat_g": 10,
+          "items": [
+            "葡萄糖电解质粉10g"
+          ]
+        },
+        "post_workout": {
+          "protein_g": 21,
+          "carbs_g": 3,
+          "fat_g": 10,
+          "items": [
+            "ON乳清蛋白粉30g"
+          ]
+        }
+      }
+    },
+    {
+      "date": "2026-05-07",
+      "day_of_week": "周四",
+      "type": "中碳日(下肢)",
+      "total_calorie": 2646,
+      "target_calorie": 1870,
+      "total_protein_g": 190,
+      "target_protein_g": 115,
+      "total_carbs_g": 271,
+      "target_carbs_g": 150,
+      "total_fat_g": 89,
+      "target_fat_g": 90,
+      "meals": {
+        "breakfast": {
+          "protein_g": 37,
+          "carbs_g": 106,
+          "fat_g": 25,
+          "items": [
+            "大希地牛肉馅饼50g",
+            "鸡蛋110g",
+            "无糖卡布奇诺300g",
+            "嘉兴粽子BRA 180g"
+          ]
+        },
+        "lunch": {
+          "protein_g": 120,
+          "carbs_g": 133,
+          "fat_g": 33,
+          "items": [
+            "鳝丝150g",
+            "凉拌杂蔬400g",
+            "糖醋排骨80g",
+            "鸡蛋559g(希乐), 土豆(煮)100g"
+          ]
+        },
+        "dinner": {
+          "protein_g": 11,
+          "carbs_g": 12,
+          "fat_g": 0,
+          "items": [
+            "米饭100g",
+            "水煮鸡毛菜50g",
+            "炒河虾50g"
+          ]
+        },
+        "pre_workout": {
+          "protein_g": 21,
+          "carbs_g": 14,
+          "fat_g": 0,
+          "items": [
+            "诺特兰电解质粉(草莓)39g",
+            "ON乳清蛋白粉30g"
+          ]
+        }
+      },
+      "notes": "训记OCR 2026-05-07，蛋白质190g大幅超标(165%)，碳水271g超标(180%)，热量2646 vs 目标1870"
+    },
+    {
+      "date": "2026-05-08",
+      "total": {
+        "kcal": 2453,
+        "protein_g": 153,
+        "carb_g": 244,
+        "fat_g": 96
+      },
+      "targets": {
+        "kcal": 2005,
+        "protein_g": 120,
+        "carb_g": 190,
+        "fat_g": 85
+      },
+      "meals": {
+        "breakfast": {
+          "protein_g": 34,
+          "carb_g": 93,
+          "fat_g": 19,
+          "detail": "海参25g, 鸡蛋110g, 无糖卡布奇诺300g, 嘉兴粽子(蛋黄肉粽)200g"
+        },
+        "lunch": {
+          "protein_g": 69,
+          "carb_g": 96,
+          "fat_g": 47,
+          "detail": "鸡蛋55g, 土豆(煮)100g, 正盛蒜头酥29g, 黑胡椒海盐2g, 凉拌杂蔬400g, 牛排(熟)100g, 清炖狮子头120g, 米饭150g, 炒河虾50g"
+        },
+        "dinner": {
+          "protein_g": 27,
+          "carb_g": 41,
+          "fat_g": 28,
+          "detail": "米饭100g, 清蒸乳鸽, 香酥烤子鱼50g"
+        },
+        "pre_workout": {
+          "carb_g": 8,
+          "detail": "金惟他300g + 葡萄糖电解质粉10g"
+        },
+        "post_workout": {
+          "protein_g": 21,
+          "carb_g": 3,
+          "detail": "ON乳清蛋白粉30g"
+        }
+      },
+      "notes": "含晚餐完整版。低碳日，热量超标22%，蛋白质超标27%，碳水超标28%，脂肪超标12%"
+    }
+  ],
+  "weekly_summaries": [],
+  "sleep_logs": [
+    {
+      "date": "2026-05-08",
+      "sleep_start": "01:57",
+      "sleep_end": "07:18",
+      "total_minutes": 321,
+      "deep_sleep_minutes": 287,
+      "light_sleep_minutes": 28,
+      "wake_minutes": 34,
+      "sleep_efficiency_pct": 89,
+      "avg_heart_rate_bpm": 51,
+      "heart_rate_range": "48-58",
+      "blood_oxygen_avg_pct": 95.4,
+      "notes": "微信图片OCR(2026-05-08)，深夜01:57才睡，总睡眠仅5h21m，严重不足。深睡眠287min表现优秀，但总时长缺口大。"
+    }
+  ]
+}
