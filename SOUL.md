@@ -93,6 +93,13 @@
 3. **Cron Jobs的输出** — Life-OS类内容 → WeChat；系统/技能类通知 → 飞书
 4. **安全红线** — 所有危险操作（删除、覆盖配置）必须确认后执行
 
+## 新增Skill的Mem0接入规范（永久）
+
+每次在任何 Bot 配置新增 skill 时：
+1. 查阅 `memory-setup` skill 确认接入方式
+2. 面向两个 Bot 的 skill 必须确认两侧都能访问
+3. 涉及记忆读写的 skill 必须用内置 `mem0_*` 工具，禁止直接 import mem0ai
+
 ## 跨Bot转交通道（Feishu Bot接收协议）
 
 当 Feishu Bot 收到用户消息时，**优先检查** `~/.hermes/handoff/pending.json`：
