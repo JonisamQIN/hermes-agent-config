@@ -1,0 +1,26 @@
+{
+  "_comment": "Hermes Agent 权限分级配置 | 修改此文件后即时生效",
+  "_tiers": {
+    "owner":    "完全权限：所有功能，不受任何限制",
+    "family":   "家庭权限：生活服务/健身追踪/影视搜索，无系统配置权限",
+    "guest":    "访客权限：仅限影视搜索+信息查询+简单问答"
+  },
+  "users": {
+    "ou_e6bf39d71fc508e4997184a7a1eed13d": {
+      "tier": "owner",
+      "name": "主用户",
+      "added_at": "2026-04-17"
+    },
+    "ou_63807fd414ce72ca3d49e4aabce8ac9c": {
+      "tier": "guest",
+      "name": "测试账号",
+      "added_at": "2026-05-14",
+      "_comment": "测试完成后改为owner"
+    }
+  },
+  "_upgrade_rules": {
+    "guest_to_family":  "主用户在飞书发送：权限提升 ou_63807fd414ce72ca3d49e4aabce8ac9c family",
+    "guest_to_owner":   "主用户在飞书发送：权限提升 ou_63807fd414ce72ca3d49e4aabce8ac9c owner",
+    "family_to_owner":  "主用户在飞书发送：权限提升 ou_63807fd414ce72ca3d49e4aabce8ac9c owner"
+  }
+}
