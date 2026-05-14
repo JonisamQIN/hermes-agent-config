@@ -523,10 +523,10 @@
       "context_from": null,
       "schedule": {
         "kind": "cron",
-        "expr": "0 22 * * *",
-        "display": "0 22 * * *"
+        "expr": "30 21 * * *",
+        "display": "30 21 * * *"
       },
-      "schedule_display": "0 22 * * *",
+      "schedule_display": "30 21 * * *",
       "repeat": {
         "times": null,
         "completed": 0
@@ -536,7 +536,7 @@
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-05-14T10:29:31.768899+08:00",
-      "next_run_at": "2026-05-14T22:00:00+08:00",
+      "next_run_at": "2026-05-14T21:30:00+08:00",
       "last_run_at": null,
       "last_status": null,
       "last_error": null,
@@ -568,10 +568,10 @@
       "context_from": null,
       "schedule": {
         "kind": "cron",
-        "expr": "0 9 * * 1",
-        "display": "0 9 * * 1"
+        "expr": "0 10 * * 1",
+        "display": "0 10 * * 1"
       },
-      "schedule_display": "0 9 * * 1",
+      "schedule_display": "0 10 * * 1",
       "repeat": {
         "times": null,
         "completed": 0
@@ -581,7 +581,7 @@
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-05-14T10:29:32.773485+08:00",
-      "next_run_at": "2026-05-18T09:00:00+08:00",
+      "next_run_at": "2026-05-18T10:00:00+08:00",
       "last_run_at": null,
       "last_status": null,
       "last_error": null,
@@ -597,5 +597,5 @@
       "workdir": null
     }
   ],
-  "updated_at": "2026-05-14T10:29:32.775000+08:00"
+  "updated_at": "2026-05-14T10:37:37.316476+08:00"
 }
