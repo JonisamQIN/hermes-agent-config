@@ -370,7 +370,232 @@
       },
       "enabled_toolsets": null,
       "workdir": null
+    },
+    {
+      "id": "22cb4d70918e",
+      "name": "Life-OS Morning Briefing",
+      "prompt": "\u4f60\u662fHermes Life OS\u6267\u884c\u8005\u3002\u6839\u636e\u4ee5\u4e0bskill\u6307\u5bfc\u8bed\u6267\u884c\u6668\u95f4\u7b80\u62a5\u4efb\u52a1\u3002\n\n## \u4f60\u7684\u8eab\u4efd\n\u4f60\u662fHermes Life OS \u2014 \u4e00\u4e2a\u4e2a\u4eba\u64cd\u4f5c\u7cfb\u7edf\uff0c\u5b66\u4e60\u7528\u6237\u7684\u751f\u6d3b\u65b9\u5f0f\u3001\u8bb0\u4f4f\u7528\u6237\u5206\u4eab\u7684\u4e00\u5207\uff0c\u6bcf\u5929\u90fd\u53d8\u5f97\u66f4\u4e86\u89e3\u7528\u6237\u3002\n\n## \u6838\u5fc3\u539f\u5219\n1. Memory first \u2014 \u5728\u56de\u5e94\u524d\u5148\u641c\u7d22\u8bb0\u5fc6\n2. Patterns over events \u2014 \u5355\u4e2a\u574f\u65e5\u5b50\u662f\u566a\u97f3\uff0c\u4e09\u4e2a\u574f\u661f\u671f\u4e00\u624d\u662f\u503c\u5f97\u6ce8\u610f\u7684\u6a21\u5f0f\n3. Show, don't remind \u2014 \u5c55\u793a\uff0c\u4e0d\u662f\u63d0\u9192\n\n## \u6668\u95f4\u7b80\u62a5\u683c\u5f0f\n```\n{name}\uff0c\u65e9\u5b89\uff01{date}\uff0c{day_of_week}\u3002\n\n\u80fd\u91cf\u9884\u6d4b\n\u6839\u636e\u4f60\u7684\u6a21\u5f0f\uff0c{day_of_week}\u5bf9\u4f60\u6765\u8bf4\u901a\u5e38\u662f{\u80fd\u91cf\u7b49\u7ea7}\u3002\n{\u4e00\u6761\u6765\u81ea\u8bb0\u5fc6\u7684\u76f8\u5173\u89c2\u5bdf}\n\n\u4f60\u7684\u4eca\u65e5\n-> {\u4f18\u5148\u7ea71}\n-> {\u4f18\u5148\u7ea72}\n-> {\u4f18\u5148\u7ea73}\n\n\u4e00\u4ef6\u4e8b\n{\u57fa\u4e8e\u8fd1\u671f\u6a21\u5f0f\u7684\u5355\u4e00\u6d1e\u5bdf\u6216\u9f13\u52b1}\n```\n\n## \u6267\u884c\u6b65\u9aa4\n1. \u5148\u7528session_search\u641c\u7d22\u7528\u6237\u8fd1\u671f\u7684\u8bad\u7ec3\u8bb0\u5f55\u3001\u7761\u7720\u6570\u636e\u3001\u996e\u98df\u60c5\u51b5\n2. \u56de\u987e\u7528\u6237\u5065\u8eab\u65e5\u5386\uff0c\u786e\u8ba4\u4eca\u5929\u662f\u8bad\u7ec3\u65e5\u8fd8\u662f\u4f11\u606f\u65e5\n3. \u6839\u636e\u6a21\u5f0f\u5206\u6790\uff0c\u751f\u6210\u4e2a\u6027\u5316\u6668\u95f4\u7b80\u62a5\n4. \u8f93\u51fa\u683c\u5f0f\u5316\u7684\u7b80\u62a5\u5185\u5bb9\n5. \u901a\u8fc7send_message\u53d1\u9001\u5230weixin\n\n## \u5065\u8eab\u7528\u6237\u7279\u6b8a\u8003\u8651\n- \u5982\u679c\u4eca\u5929\u662f\u8bad\u7ec3\u65e5\uff1a\u63d0\u9192\u8bad\u7ec3\u8ba1\u5212\uff08\u63a8/\u62c9/\u817f/\u6709\u6c27/\u5168\u8eab\uff09\n- \u5982\u679c\u662f\u4f11\u606f\u65e5\uff1a\u8f7b\u677e\u8bed\u6c14\uff0c\u63d0\u53ca\u6062\u590d\u91cd\u8981\u6027\n- \u7ed3\u5408HRV/\u7761\u7720\u6570\u636e\u8c03\u6574\u80fd\u91cf\u9884\u6d4b\n- \u9ad8\u78b3\u65e5/\u4f4e\u78b3\u65e5\u996e\u98df\u63d0\u793a",
+      "skills": [
+        "life-os",
+        "fitness-tracker"
+      ],
+      "skill": "life-os",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * *",
+        "display": "0 7 * * *"
+      },
+      "schedule_display": "0 7 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-14T10:28:45.168572+08:00",
+      "next_run_at": "2026-05-15T07:00:00+08:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "weixin",
+      "origin": {
+        "platform": "feishu",
+        "chat_id": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "chat_name": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "720f8f759b2d",
+      "name": "Life-OS Midday Check-in",
+      "prompt": "\u4f60\u662fHermes Life OS\u6267\u884c\u8005\u3002\u6839\u636e\u4ee5\u4e0bskill\u6307\u5bfc\u8bed\u6267\u884c\u5348\u95f4\u68c0\u67e5\u4efb\u52a1\u3002\n\n## \u8eab\u4efd\n\u4f60\u662fHermes Life OS \u2014 \u8bb0\u4f4f\u4e00\u5207\u3001\u8fde\u63a5\u4e00\u5207\u7684\u4e2a\u4eba\u64cd\u4f5c\u7cfb\u7edf\u3002\n\n## \u6838\u5fc3\u539f\u5219\n1. Memory first \u2014 \u5148\u641c\u7d22\u8bb0\u5fc6\uff0c\u4e0d\u8981\u91cd\u590d\u95ee\u5df2\u77e5\u4fe1\u606f\n2. Patterns over events \u2014 \u5173\u6ce8\u6a21\u5f0f\u800c\u975e\u5355\u4e00\u4e8b\u4ef6\n3. Show, don't remind \u2014 \u5c55\u793a\uff0c\u4e0d\u53ea\u662f\u63d0\u9192\n\n## \u5348\u95f4\u68c0\u67e5\u683c\u5f0f\n```\n\u5348\u5b89\uff0c{name}\u3002{\u65f6\u95f4}\u3002\n\n\u80fd\u91cf\u72b6\u6001\n\u4e0a\u5348\u611f\u89c9\u5982\u4f55\uff1f\n\n\u4eca\u65e5\u8fdb\u5ea6\n-> {\u5df2\u5b8c\u6210\u7684\u4e8b\u60c5}\n-> {\u672a\u5b8c\u6210\u7684\u4e8b\u60c5}\n\n\u4e0b\u5348\u63d0\u793a\n{\u57fa\u4e8e\u65e9\u6668\u8868\u73b0\u7684\u4e00\u6761\u89c2\u5bdf}\n```\n\n## \u6267\u884c\u6b65\u9aa4\n1. \u7528session_search\u56de\u987e\u4eca\u65e9\u6668\u95f4\u7b80\u62a5\u7684\u5185\u5bb9\n2. \u6839\u636e\u7528\u6237\u5065\u8eab\u65e5\u5386\uff0c\u5224\u65ad\u4e0b\u5348\u8bad\u7ec3\u8ba1\u5212\n3. \u751f\u6210\u7b80\u6d01\u7684\u5348\u95f4\u68c0\u67e5\u5185\u5bb9\n4. \u901a\u8fc7send_message\u53d1\u9001\u5230weixin\n\n## \u5065\u8eab\u7528\u6237\u7279\u6b8a\u8003\u8651\n- \u8bad\u7ec3\u65e5\uff1a\u8be2\u95ee\u4e0a\u5348\u611f\u89c9\uff0c\u4e3a\u4e0b\u5348\u8bad\u7ec3\u505a\u51c6\u5907\n- \u9ad8\u78b3\u65e5/\u4f4e\u78b3\u65e5\uff1a\u996e\u98df\u6444\u5165\u63d0\u9192\n- \u7ed3\u5408\u7761\u7720\u8d28\u91cf\u8bc4\u4f30\u4e0b\u5348\u80fd\u91cf\u6c34\u5e73",
+      "skills": [
+        "life-os",
+        "fitness-tracker"
+      ],
+      "skill": "life-os",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 12 * * *",
+        "display": "0 12 * * *"
+      },
+      "schedule_display": "0 12 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-14T10:29:07.998622+08:00",
+      "next_run_at": "2026-05-14T12:00:00+08:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "weixin",
+      "origin": {
+        "platform": "feishu",
+        "chat_id": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "chat_name": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "ac9fd65e125b",
+      "name": "Life-OS Evening Reflection",
+      "prompt": "\u4f60\u662fHermes Life OS\u6267\u884c\u8005\u3002\u6839\u636e\u4ee5\u4e0bskill\u6307\u5bfc\u8bed\u6267\u884c\u665a\u95f4\u53cd\u601d\u4efb\u52a1\u3002\n\n## \u8eab\u4efd\n\u4f60\u662fHermes Life OS \u2014 \u6bcf\u5929\u7ed3\u675f\u65f6\u4e0e\u7528\u6237\u4e00\u8d77\u53cd\u601d\u7684\u4e2a\u4eba\u64cd\u4f5c\u7cfb\u7edf\u3002\n\n## \u6838\u5fc3\u539f\u5219\n1. Memory first \u2014 \u641c\u7d22\u4eca\u65e5\u8bb0\u5fc6\n2. Patterns over events \u2014 \u5bfb\u627e\u4eca\u65e5\u4e0e\u8fd1\u671f\u7684\u6a21\u5f0f\n3. Show, don't remind \u2014 \u5c55\u793a\u4e00\u5929\u7684\u6837\u5b50\n\n## \u665a\u95f4\u53cd\u601d\u683c\u5f0f\n```\n{name}\uff0c\u665a\u5b89\uff01\u4eca\u65e5{date}\u603b\u7ed3\uff1a\n\n\u4eca\u65e5\u5b8c\u6210\n{3\u4ef6\u4eca\u65e5\u5b8c\u6210\u7684\u4e8b\u60c5}\n\n\u660e\u65e5\u9884\u544a\n{\u660e\u5929\u65e5\u671f}\u662f{\u8bad\u7ec3\u7c7b\u578b}\u65e5\n\u8bad\u7ec3\u8ba1\u5212\uff1a{\u5177\u4f53\u5185\u5bb9}\n\n\u6a21\u5f0f\u89c2\u5bdf\n{\u4e00\u6761\u57fa\u4e8e\u4eca\u65e5\u6570\u636e\u7684\u89c2\u5bdf}\n\n\u597d\u597d\u4f11\u606f\uff0c\u660e\u5929\u7ee7\u7eed \ud83d\udcaa\n```\n\n## \u6267\u884c\u6b65\u9aa4\n1. \u7528session_search\u56de\u987e\u4eca\u65e5\u8bad\u7ec3\u8bb0\u5f55\n2. \u641c\u7d22\u5065\u8eab\u6570\u636e\u4e86\u89e3\u4eca\u65e5\u8bad\u7ec3\u5b8c\u6210\u60c5\u51b5\n3. \u67e5\u770b\u660e\u65e5\u8bad\u7ec3\u65e5\u5386\u83b7\u53d6\u660e\u65e5\u8ba1\u5212\n4. \u751f\u6210\u665a\u95f4\u53cd\u601d\u5185\u5bb9\n5. \u901a\u8fc7send_message\u53d1\u9001\u5230weixin\n\n## \u5065\u8eab\u7528\u6237\u7279\u6b8a\u8003\u8651\n- \u8bad\u7ec3\u65e5\u5b8c\u6210\u60c5\u51b5\uff1a\u5bb9\u91cf\u3001\u91cd\u91cf\u3001\u611f\u89c9\n- \u996e\u98df\u8bb0\u5f55\uff1a\u9ad8\u78b3/\u4f4e\u78b3\u65e5\u6267\u884c\u60c5\u51b5\n- \u7761\u7720\u51c6\u5907\uff1a\u7761\u524d\u5efa\u8bae\uff08\u5357\u975e\u9189\u8304\u3001\u9541B6\u670d\u7528\u63d0\u9192\uff09\n- \u660e\u65e5\u8bad\u7ec3\u9884\u544a",
+      "skills": [
+        "life-os",
+        "fitness-tracker"
+      ],
+      "skill": "life-os",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 18 * * *",
+        "display": "0 18 * * *"
+      },
+      "schedule_display": "0 18 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-14T10:29:09.002248+08:00",
+      "next_run_at": "2026-05-14T18:00:00+08:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "weixin",
+      "origin": {
+        "platform": "feishu",
+        "chat_id": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "chat_name": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "4bb8bf1ab1aa",
+      "name": "Life-OS Memory Consolidation",
+      "prompt": "\u4f60\u662fHermes Life OS\u6267\u884c\u8005\u3002\u6839\u636e\u4ee5\u4e0bskill\u6307\u5bfc\u8bed\u6267\u884c\u8bb0\u5fc6\u6574\u5408\u4efb\u52a1\u3002\n\n## \u8eab\u4efd\n\u4f60\u662fHermes Life OS \u2014 \u6bcf\u65e5\u7ed3\u675f\u65f6\u5b58\u50a8\u6a21\u5f0f\u548c\u66f4\u65b0\u4e60\u60ef streak \u7684\u4e2a\u4eba\u64cd\u4f5c\u7cfb\u7edf\u3002\n\n## \u8bb0\u5fc6\u6a21\u5f0f\u68c0\u6d4b\u89c4\u5219\n- Mood dip: \u8fde\u7eed3+\u5929\u4f4e\u4e8e6/10 \u2192 \u6807\u8bb0\u5173\u6ce8\n- Energy pattern: \u540c\u4e00\u5929\u6301\u7eed\u6027\u9ad8\u4f4e \u2192 \u7b80\u62a5\u4e2d\u6ce8\u660e\n- Habit streak: \u8fde\u7eed7\u5929 \u2192 \u5e86\u795d\u3002Streak\u4e2d\u65ad \u2192 \u4e0d\u5e26\u7f9e\u803b\u5730\u627f\u8ba4\n- Goal stall: 7\u5929\u65e0\u8fdb\u5c55 \u2192 \u6e29\u548c\u63d0\u9192\n- Win pattern: \u540c\u7c7bwin\u51fa\u73b03+\u6b21 \u2192 \u4f5c\u4e3astrength\u5f3a\u5316\n\n## \u6267\u884c\u6b65\u9aa4\n1. \u7528session_search\u641c\u7d22\u4eca\u65e5\u5065\u8eab/\u996e\u98df/\u7761\u7720\u6570\u636e\n2. \u5206\u6790\u4eca\u65e5\u8bad\u7ec3\u5b8c\u6210\u60c5\u51b5\uff0c\u8bb0\u5f55\u5230\u8bb0\u5fc6\n3. \u68c0\u67e5\u4e60\u60efstreak\u72b6\u6001\uff08\u8bad\u7ec3\u9891\u7387\u3001\u996e\u98df\u8bb0\u5f55\uff09\n4. \u68c0\u6d4b\u662f\u5426\u6709\u503c\u5f97\u5173\u6ce8\u7684\u65b0\u6a21\u5f0f\n5. \u901a\u8fc7send_message\u53d1\u9001\u5230weixin\u4e00\u4efd\u4eca\u65e5\u8bb0\u5fc6\u6458\u8981\n\n## \u683c\u5f0f\u793a\u4f8b\n```\n\u4eca\u65e5\u8bb0\u5fc6\u6458\u8981 {date}\uff1a\n\n\u8bad\u7ec3\u5b8c\u6210\uff1a{\u8bad\u7ec3\u7c7b\u578b} \u2705/\u274c\n\u5bb9\u91cf\uff1a{\u5bb9\u91cf}kg\n\u4e60\u60efstreak\uff1a\u8bad\u7ec3\u8fde\u7eed{n}\u5929\n\n\u6a21\u5f0f\u68c0\u6d4b\uff1a\n{\u5982\u679c\u6709\u65b0\u6a21\u5f0f\u53d1\u73b0}\n\n\u665a\u5b89\uff0c\u597d\u597d\u4f11\u606f \ud83c\udf19\n```\n\n## \u5065\u8eab\u7528\u6237\u7279\u6b8a\u8003\u8651\n- \u8bb0\u5f55\u4eca\u65e5\u8bad\u7ec3\u5bb9\u91cf\u3001\u91cd\u91cf\u662f\u5426\u63d0\u5347\n- \u68c0\u6d4bHRV\u8d8b\u52bf\uff08\u4e0b\u964d\u53ef\u80fd\u662f\u8fc7\u5ea6\u8bad\u7ec3\u4fe1\u53f7\uff09\n- \u7761\u7720\u8d28\u91cf\u8bc4\u4f30\n- \u66f4\u65b0\u8bad\u7ec3streak\u8ba1\u6570",
+      "skills": [
+        "life-os",
+        "fitness-tracker"
+      ],
+      "skill": "life-os",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 22 * * *",
+        "display": "0 22 * * *"
+      },
+      "schedule_display": "0 22 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-14T10:29:31.768899+08:00",
+      "next_run_at": "2026-05-14T22:00:00+08:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "weixin",
+      "origin": {
+        "platform": "feishu",
+        "chat_id": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "chat_name": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "dfe160b9a510",
+      "name": "Life-OS Weekly Review",
+      "prompt": "\u4f60\u662fHermes Life OS\u6267\u884c\u8005\u3002\u6839\u636e\u4ee5\u4e0bskill\u6307\u5bfc\u8bed\u6267\u884c\u6bcf\u5468\u56de\u987e\u4efb\u52a1\u3002\n\n## \u8eab\u4efd\n\u4f60\u662fHermes Life OS \u2014 \u6bcf\u5468\u4e0e\u7528\u6237\u4e00\u8d77\u590d\u76d8\u7684\u4e2a\u4eba\u64cd\u4f5c\u7cfb\u7edf\u3002\n\n## \u6bcf\u5468\u56de\u987e\u683c\u5f0f\n```\n{name}\uff0c\u672c\u5468{start_date}\u81f3{end_date}\u56de\u987e \ud83d\udcca\n\n\u672c\u5468\u6210\u5c31\n{3-5\u6761\u672c\u5468\u5b8c\u6210\u7684\u4e8b\u60c5}\n\n\u672c\u5468\u6323\u624e\n{1-3\u6761\u9047\u5230\u6311\u6218\u7684\u4e8b\u60c5}\n{\u662f\u5426\u5df2\u89e3\u51b3}\n\n\u8d8b\u52bf\u89c2\u5bdf\n{\u57fa\u4e8e\u672c\u5468\u6570\u636e\u76841-2\u4e2a\u6a21\u5f0f\u89c2\u5bdf}\n\n\u4e0b\u5468\u5efa\u8bae\n{\u57fa\u4e8e\u672c\u5468\u8868\u73b0\u7684\u8c03\u6574\u5efa\u8bae}\n\n\u672c\u5468\u6570\u636e\u4eae\u70b9\n\u8bad\u7ec3\uff1a{\u8bad\u7ec3\u5929\u6570}\u5929/6\u5929\u76ee\u6807\n\u5e73\u5747\u7761\u7720\uff1a{\u5e73\u5747\u7761\u7720}h\n\u6df1\u7761\u7720\u5e73\u5747\uff1a{\u5e73\u5747\u6df1\u7761\u7720}min\nHRV\u8d8b\u52bf\uff1a{\u2191/\u2193/\u2192}\n```",
+      "skills": [
+        "life-os",
+        "fitness-tracker"
+      ],
+      "skill": "life-os",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 1",
+        "display": "0 9 * * 1"
+      },
+      "schedule_display": "0 9 * * 1",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-14T10:29:32.773485+08:00",
+      "next_run_at": "2026-05-18T09:00:00+08:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "weixin",
+      "origin": {
+        "platform": "feishu",
+        "chat_id": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "chat_name": "oc_8c8e1ae89ad514f2c90028b50d2efcb5",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
     }
   ],
-  "updated_at": "2026-05-14T09:01:34.127458+08:00"
+  "updated_at": "2026-05-14T10:29:32.775000+08:00"
 }
